@@ -1,0 +1,154 @@
+<interlinear_text>
+  <item type="title">Garawa text</item>
+  <item type="source">\dn14.003.01</item>
+  <item type="speakers">Bindie West (Moreland) (speaker code:B), Stumpy George (speaker code:S). In the transcript, Flint actually uses three code letters: B, S and G. G may stand for "Stumpy George".</item>
+  <item type="comment">The sound recording of this material is not available. The conversation recorded on the audio-tape (\cm R297C) presumably corresponds to the text transcribed in \dn 14.003.01.  However, the informants' speech was very rapid and somewhat unclear, and no clear connections between the recording and the transcript could be made.</item>
+  <phrases>
+    <phrase>
+      <item type="speaker">G</item>
+      <item type="comment_rec"></item>
+      <item type="gls"></item>
+      <item type="comment_gls"></item>
+      <words>
+        <word>
+          <item type="txt">nanyi??/nganyi??</item>
+          <item type="gls">my</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">ngaranjan</item>
+          <item type="gls">mother</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">jilajbaya</item>
+          <item type="gls">go</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">ngabayan</item>
+          <item type="gls">white man</item>
+          <item type="comment_txt">It is difficult to determine word order here, and which sentences words belong to.</item>
+          <item type="comment_gls">"white man" refers to a "Mr Haely??", whose name is written beneath ngabayan</item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">yanba</item>
+          <item type="gls">talk</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">ngangangi</item>
+          <item type="gls">want</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="speaker">G??</item>
+      <item type="comment_rec"></item>
+      <item type="gls"></item>
+      <item type="comment_gls"></item>
+        <word>
+          <item type="txt">kudbinji</item>
+          <item type="gls">happy</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">jilabaya</item>
+          <item type="gls">go</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">kingkarina</item>
+          <item type="gls">down</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">(namukiya</item>
+          <item type="gls">paint</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">yan ba lajba)</item>
+          <item type="gls">paint??</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">yalungka</item>
+          <item type="gls">all fellows down at [camp]</item>
+          <item type="comment_txt"></item>
+          <item type="comment_gls"></item>
+          <morphemes>
+            <morph>
+              <item type="txt"></item>
+            </morph>
+           </morphemes>
+        </word>
+     </phrase>
+  </phrases>
+</interlinear_text>

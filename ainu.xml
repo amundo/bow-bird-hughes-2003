@@ -1,0 +1,801 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+  <interlinear_text>
+  <item type="title">Classical Ainu text</item>
+  <item type="source">(From Yukar "Kurune sirka" (Itadorimaru) in Kindaichi (1931))</item>
+  <phrases>
+    <phrase>
+      <item type="number">(1)</item>
+      <item type="gls">My foster brother and foster sister raising me, we lived then.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">I</item>
+              <item type="gls">1SG/O</item>
+            </morph>
+            <morph>
+              <item type="txt">resu</item>
+              <item type="gls">raise</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yupi</item>
+              <item type="gls">brother</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">1SG/O</item>
+            </morph>
+            <morph>
+              <item type="txt">resu</item>
+              <item type="gls">raise</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">sapo</item>
+              <item type="gls">sister</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">1SG/O</item>
+            </morph>
+            <morph>
+              <item type="txt">res</item>
+              <item type="gls">raise</item>
+            </morph>
+            <morph>
+              <item type="txt">pa</item>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">hine</item>
+              <item type="gls">and</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">oka</item>
+              <item type="gls">be (PL)</item>
+            </morph>
+            <morph>
+              <item type="txt">an</item>
+              <item type="gls">1SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ike:-</item>
+              <item type="gls">then</item>
+            </morph>
+          </morphemes>
+        </word>
+        </words>
+    </phrase>
+    <phrase>
+      <item type="number">(2)</item>
+      <item type="gls">The god-built mountain castle, inside the mountain castle, I was raised.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Kamuy</item>
+              <item type="gls">god</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kat</item>
+              <item type="gls">build</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">casi</item>
+              <item type="gls">castle</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">casi</item>
+              <item type="gls">castle</item>
+            </morph>
+            <morph>
+              <item type="txt">upsor</item>
+              <item type="gls">inside</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">PASS</item>
+            </morph>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">1SG/O</item>
+            </morph>
+            <morph>
+              <item type="txt">o</item>
+              <item type="gls">APPL</item>
+            </morph>
+            <morph>
+              <item type="txt">resu</item>
+              <item type="gls">raise</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">(3)</item>
+      <item type="gls">The pile of treasure was heaped like a cliff, and above it the master's swords were crossing their hilts, and when the shadows of the sword knots swayed, the walls glittered in gold.  How beautiful and how interesting!.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Tapan</item>
+              <item type="gls">such</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">inuma</item>
+              <item type="gls">treasure</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ran</item>
+              <item type="gls">cliff</item>
+            </morph>
+            <morph>
+              <item type="txt">pes</item>
+              <item type="gls"> </item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kunne</item>
+              <item type="gls">like</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">cirikinka</item>
+              <item type="gls">rise high</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">enkasike</item>
+              <item type="gls">over there</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">nispa</item>
+              <item type="gls">master</item>
+            </morph>
+            <morph>
+              <item type="txt">mut</item>
+              <item type="gls">wear</item>
+            </morph>
+            <morph>
+              <item type="txt">pe</item>
+              <item type="gls">thing</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">otu</item>
+              <item type="gls">many</item>
+            </morph>
+            <morph>
+              <item type="txt">santuka</item>
+              <item type="gls">hilt</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">o</item>
+              <item type="gls">APPL</item>
+            </morph>
+            <morph>
+              <item type="txt">uka</item>
+              <item type="gls">REC</item>
+            </morph>
+            <morph>
+              <item type="txt">uyru</item>
+              <item type="gls">exist</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">otu</item>
+              <item type="gls">many</item>
+            </morph>
+            <morph>
+              <item type="txt">pusa</item>
+              <item type="gls">knot</item>
+            </morph>
+            <morph>
+              <item type="txt">kur</item>
+              <item type="gls">shadow</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">suypa</item>
+              <item type="gls">sway</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kane</item>
+              <item type="gls">gold</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">asso</item>
+              <item type="gls">wall</item>
+            </morph>
+            <morph>
+              <item type="txt">kotor</item>
+              <item type="gls"> </item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">mike</item>
+              <item type="gls">glitter</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kane</item>
+              <item type="gls">gold</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">anramasu</item>
+              <item type="gls">pleasing</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">auwesuye</item>
+              <item type="gls">interesting</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">(4)</item>
+      <item type="gls">In front of the treasure, there was a specially made bed, and I was raised on top of the bed.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Inuma</item>
+              <item type="gls">treasure</item>
+            </morph>
+            <morph>
+              <item type="txt">koca</item>
+              <item type="gls">front</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item type="txt">ci</item>
+              <item type="gls">PASS</item>
+            </morph>
+            <morph>
+              <item type="txt">tuye</item>
+              <item type="gls">cut</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">amset</item>
+              <item type="gls">bed</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">amset</item>
+              <item type="gls">bed</item>
+            </morph>
+            <morph>
+              <item type="txt">kasi</item>
+              <item type="gls">top</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">PASS</item>
+            </morph>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">1SG/O</item>
+            </morph>
+            <morph>
+              <item type="txt">o</item>
+              <item type="gls">APPL</item>
+            </morph>
+            <morph>
+              <item type="txt">resu</item>
+              <item type="gls">raise</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">(5)</item>
+      <item type="gls">Toward the left, a white-wood room stood splendidly.</item>
+      <words>        
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Oharkisi</item>
+              <item type="gls">left-side</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">un</item>
+              <item type="gls">in</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">retan</item>
+              <item type="gls">white</item>
+            </morph>
+            <morph>
+              <item type="txt">ni</item>
+              <item type="gls">wood</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">tumpu</item>
+              <item type="gls">room</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">asrukonna</item>
+              <item type="gls">stood</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">meunatara</item>
+              <item type="gls">splendid</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">(6)</item>
+      <item type="gls">Not knowing what kind of person was being raised in the room so beautifully decorated, I was struck with wonder.</item>
+      <words>        
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Nekonan</item>
+              <item type="gls">what kind of person</item>
+            </morph>
+            <morph>
+              <item type="txt">kur</item>
+              <item type="gls"> </item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">PASS</item>
+            </morph>
+             <morph>
+              <item type="txt">o</item>
+              <item type="gls">APPL</item>
+            </morph>
+            <morph>
+              <item type="txt">res</item>
+              <item type="gls">raise</item>
+            </morph>
+            <morph>
+              <item type="txt">pa</item>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">tumpu</item>
+              <item type="gls">room</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">ci</item>
+              <item type="gls">PASS</item>
+            </morph>
+             <morph>
+              <item type="txt">tomte</item>
+              <item type="gls">beautify</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">ruwe</item>
+              <item type="gls">that</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">oka</item>
+              <item type="gls">be</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">nankor</item>
+              <item type="gls">perhaps</item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">be</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">1SG</item>
+            </morph>
+            <morph>
+              <item type="txt">eramisikari</item>
+              <item type="gls">not to understand</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">rayap</item>
+              <item type="gls">surprised</item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">kewtum</item>
+              <item type="gls">feelings</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">1SG</item>
+            </morph>
+            <morph>
+              <item type="txt">yay</item>
+              <item type="gls">REFL</item>
+            </morph>
+            <morph>
+              <item type="txt">kor</item>
+              <item type="gls">have</item>
+            </morph>
+            <morph>
+              <item type="txt">pa</item>
+              <item type="gls">PL</item>
+            </morph>
+            <morph>
+              <item type="txt">re</item>
+              <item type="gls">CAUS</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>    
+    <phrase>
+      <item type="number">(7)</item>
+      <item type="gls">And then, on the top of the bed, I was making-my-face-turn-to-one-place (i.e. concentrating) on the carving on the surface of the sword and on the carving on the surface of the sheath.</item>
+      <words>        
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Pakno</item>
+              <item type="gls">and</item>
+            </morph>
+            <morph>
+              <item type="txt">nekor</item>
+              <item type="gls">then</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">amset</item>
+              <item type="gls">bed</item>
+            </morph>
+            <morph>
+              <item type="txt">ka</item>
+              <item type="gls">top</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">ta</item>
+              <item type="gls">at</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">tomi</item>
+              <item type="gls">sword</item>
+            </morph>
+            <morph>
+              <item type="txt">ka</item>
+              <item type="gls">top</item>
+            </morph>
+          </morphemes>
+        </word>        
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">nuye</item>
+              <item type="gls">carving</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">ikor</item>
+              <item type="gls">sheath</item>
+            </morph>
+            <morph>
+              <item type="txt">ka</item>
+              <item type="gls">top</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">nuye</item>
+              <item type="gls">carving</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">tampe</item>
+              <item type="gls">that</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">patek</item>
+              <item type="gls">only</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">1SG</item>
+            </morph>
+            <morph>
+              <item type="txt">ko</item>
+              <item type="gls">APPL</item>
+            </morph>
+            <morph>
+              <item type="txt">sine</item>
+              <item type="gls">one</item>
+            </morph>
+            <morph>
+              <item type="txt">an</item>
+              <item type="gls">be</item>
+            </morph>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">place</item>
+            </morph>
+            <morph>
+              <item type="txt">nan</item>
+              <item type="gls">face</item>
+            </morph>
+            <morph>
+              <item type="txt">tuye</item>
+              <item type="gls">turn</item>
+            </morph>
+            <morph>
+              <item type="txt">re</item>
+              <item type="gls">CAUS</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>  
+  </phrases>
+</interlinear_text>
+</resource>

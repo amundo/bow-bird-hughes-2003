@@ -1,0 +1,357 @@
+  <interlinear_text>
+  <item type="title">Text 2</item>
+  <item type="comment">This short Dhirari text was told by Ben Murray;
+   it tells of his encounter with an Aranda tinanipa or 'kirdaitcha
+   man' (man on a revenge expedition) at Farina, northern South 
+   Australia.  The tinanipa came looking for food but was frightened 
+   off when Ben fired his 0.22 rifle in his direction</item> 
+  <phrases>
+    <phrase>
+      <item type="number">1</item>
+      <item type="gls">(They) used to put a bone in (their) noses long 
+       ago</item> 
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">muku</item>
+              <item type="gls">bone-ABS</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kuda</item>
+              <item type="gls">put in</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">PART</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pudi</item>
+              <item type="gls">AUX</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">PART</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">wanti</item>
+              <item type="gls">AUX</item>
+            </morph>
+            <morph>
+              <item type="txt">yi</item>
+              <item type="gls">PRES</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">mula</item>
+              <item type="gls">nose</item>
+            </morph>
+            <morph>
+              <item type="txt">ni</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">2</item>
+      <item type="gls">So we called them tinanipa</item> 
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yani</item>
+              <item type="gls">like this</item>
+            </morph>
+            <morph>
+              <item type="txt">ka</item>
+              <item type="gls">TOKEN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">nayana</item>
+              <item type="gls">1PLinclSA</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dika</item>
+              <item type="gls">name</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">PART</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pudi</item>
+              <item type="gls">AUX</item>
+            </morph>
+            <morph>
+              <item type="txt">yi</item>
+              <item type="gls">PRES</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">tinanipa</item>
+              <item type="gls">kurdaitcha-ABS</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">3</item>
+      <item type="gls">(They were) really people, people</item> 
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kana</item>
+              <item type="gls">person</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">mala</item>
+              <item type="gls">true</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kana</item>
+              <item type="gls">person</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">4</item>
+      <item type="gls">They used to wear clothes</item> 
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kati</item>
+              <item type="gls">clothing-ABS</item>
+            </morph>
+            <morph>
+              <item type="txt">tana</item>
+              <item type="gls">3Pls</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">wiri</item>
+              <item type="gls">wear</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">PART</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pudi</item>
+              <item type="gls">AUX</item>
+            </morph>
+            <morph>
+              <item type="txt">yi</item>
+              <item type="gls">PRES</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">5</item>
+      <item type="gls">Then they took their clothes off to walk around naked painted with some rotten meat</item> 
+      <item type="comment">The tinanipa rubbed their bodies with the rancid fat of a dead animl and hence gave off a strong smell (see also line 17)</item> 
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">nada</item>
+              <item type="gls">then</item>
+            </morph>
+            <morph>
+              <item type="txt">ni</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kati</item>
+              <item type="gls">clothing-ABS</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dukara</item>
+              <item type="gls">take off</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">PART</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pudi</item>
+              <item type="gls">AUX</item>
+            </morph>
+            <morph>
+              <item type="txt">yi</item>
+              <item type="gls">PRES</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">palu</item>
+              <item type="gls">naked</item>
+            </morph>
+          </morphemes>
+        </word>
+             <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">wapa</item>
+              <item type="gls">go</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">PART</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pudi</item>
+              <item type="gls">AUX</item>
+            </morph>
+            <morph>
+              <item type="txt">lali</item>
+              <item type="gls">IMPLss</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">nanti</item>
+              <item type="gls">meat</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">tunka</item>
+              <item type="gls">rotten</item>
+            </morph>
+            <morph>
+              <item type="txt">li</item>
+              <item type="gls">ERG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">widi</item>
+              <item type="gls">paint</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">PART</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pudi</item>
+              <item type="gls">AUX</item>
+            </morph>
+            <morph>
+              <item type="txt">nda</item>
+              <item type="gls">RELss</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+  </phrases>
+</interlinear_text>

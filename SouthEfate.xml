@@ -1,0 +1,325 @@
+﻿<resource>
+  <interlinear_text>
+  <item type="title">SE Text</item>
+  <item type="media">kalsrap.mov</item>
+  <item type="comment">Story from tape 20001bx told by Kalsarap Namaf.
+   Transcribed and translated into Bislama by Manuel Wayane.  The story
+   concerns a natopu or spirit called Litrapong, also known in Bislama 
+   as a Lisepsep.  Story is also told on video.</item>
+  <phrases>
+    <phrase>
+      <item type="gls1">We all know that place, and this Litrapong, I 
+      want to tell you about Litrapong. She is of grandfather's clan. 
+      Those two, grandfather and Litrapong, would talk every now and 
+      then.</item>
+      <item type="gls2">Yumi evriwan isave ples ia. Mo Litrapong 
+      (Lisepsep) ia.  Mi wantem talem long yufala abaot Litrapong ia.  
+      Hemi naflak blong olfala. Hem mo olfala (apu) tufala isap 
+      storian samtaem.</item>
+      <words>
+        <word>
+          <item type="txt">Akit</item>
+          <morphemes>
+            <morph>
+              <item type="txt">akit</item>
+              <item type="gls">1plincS</item>
+              <item type="POS">pron</item>
+            </morph>
+         </morphemes>
+        </word>
+        <word>
+          <item type="txt">tumaui</item>
+          <morphemes>
+            <morph>
+              <item type="txt">tu</item>
+              <item type="gls">1plincRS</item>
+              <item type="POS">pron</item>
+            </morph>
+            <morph>
+              <item type="txt">mau</item>
+              <item type="gls">all</item>
+               <item type="POS">quantifier</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">tae</item>
+          <morphemes>
+            <morph>
+              <item type="txt">tae</item>
+              <item type="gls">know</item>
+              <item type="POS">vambi</item>
+            </morph>
+         </morphemes>
+        </word>
+        <word>
+          <item type="txt">esan</item>
+          <morphemes>
+            <morph>
+              <item type="txt">esan</item>
+              <item type="gls">place</item>
+              <item type="POS">n</item>
+            </morph>
+           </morphemes>
+         </word>
+         <word>
+            <item type="txt">ipi</item>
+           <morphemes>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">3sgRS</item>
+               <item type="POS">pron</item>
+            </morph>
+            <morph>
+              <item type="txt">pi</item>
+              <item type="gls">be</item>
+               <item type="POS">v</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">go</item>
+          <morphemes>
+            <morph>
+              <item type="txt">go</item>
+              <item type="gls">and</item>
+              <item type="POS">conj</item>
+            </morph>
+         </morphemes>
+        </word>
+        <word>
+          <item type="txt">Litrapog</item>
+          <morphemes>
+            <morph>
+              <item type="txt">Litrapog</item>
+              <item type="gls">name</item>
+              <item type="POS">***</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">ne</item>
+          <morphemes>
+            <morph>
+              <item type="txt">ne</item>
+              <item type="gls">this</item>
+               <item type="POS">dem</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">amurin</item>
+          <morphemes>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">1sgRS</item>
+              <item type="POS">pron</item>
+            </morph>
+            <morph>
+              <item type="txt">mur</item>
+              <item type="gls">want</item>
+              <item type="POS">vambi</item>
+            </morph>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">TR</item>
+              <item type="POS">TR</item>
+            </morph>
+            <morph>
+              <item type="txt">n</item>
+              <item type="gls">3sg0</item>
+              <item type="POS">pron</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">na</item>
+          <morphemes>
+            <morph>
+              <item type="txt">na</item>
+              <item type="gls">COMP</item>
+              <item type="POS">COMP</item>
+            </morph>
+         </morphemes>
+        </word>
+        <word>
+          <item type="txt">kanrik</item>
+          <morphemes>
+            <morph>
+              <item type="txt">ka</item>
+              <item type="gls">1sgIRS</item>
+               <item type="POS">pron</item>
+            </morph>
+            <morph>
+              <item type="txt">nrik</item>
+              <item type="gls">tell</item>
+              <item type="POS">vditr</item>
+            </morph>
+         </morphemes>
+        </word>
+        <word>
+          <item type="txt">mus</item>
+          <morphemes>
+            <morph>
+              <item type="txt">mus</item>
+              <item type="gls">2pl0</item>
+              <item type="POS">pron</item>
+            </morph>
+         </morphemes>
+        </word>
+        <word>
+          <item type="txt">ki</item>
+          <morphemes>
+            <morph>
+              <item type="txt">ki</item>
+              <item type="gls">PREP</item>
+               <item type="POS">PREP</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">Litrapog</item>
+          <morphemes>
+            <morph>
+              <item type="txt">Litrapog</item>
+              <item type="gls">name</item>
+              <item type="POS">***</item>
+            </morph>
+         </morphemes>
+        </word>
+        <word>
+          <item type="txt">ne</item>
+          <morphemes>
+            <morph>
+              <item type="txt">ne</item>
+              <item type="gls">this</item>
+               <item type="POS">dem</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+            <item type="txt">ipi</item>
+            <morphemes>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">3sgRS</item>
+               <item type="POS">pron</item>
+            </morph>
+            <morph>
+              <item type="txt">pi</item>
+              <item type="gls">be</item>
+               <item type="POS">v</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+            <item type="txt">naflak</item>
+            <morphemes>
+            <morph>
+              <item type="txt">naflak</item>
+              <item type="gls">clan</item>
+               <item type="POS">n</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">ni</item>
+            <morphemes>
+            <morph>
+              <item type="txt">ni</item>
+              <item type="gls">of</item>
+               <item type="POS">prep</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">apu</item>
+            <morphemes>
+            <morph>
+              <item type="txt">apu</item>
+              <item type="gls">grandfather</item>
+               <item type="POS">n</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">Gar</item>
+            <morphemes>
+            <morph>
+              <item type="txt">gar</item>
+              <item type="gls">3plS</item>
+               <item type="POS">pron</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">apu</item>
+            <morphemes>
+            <morph>
+              <item type="txt">apu</item>
+              <item type="gls">grandfather</item>
+               <item type="POS">n</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">rato</item>
+            <morphemes>
+            <morph>
+              <item type="txt">ra</item>
+              <item type="gls">2/3d1RS</item>
+               <item type="POS">pron</item>
+            </morph>
+            <morph>
+              <item type="txt">to</item>
+              <item type="gls">HABIT</item>
+               <item type="POS">PVC</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">pusrek</item>
+            <morphemes>
+            <morph>
+              <item type="txt">puserek</item>
+              <item type="gls">talk</item>
+               <item type="POS">vintr</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">ser</item>
+            <morphemes>
+            <morph>
+              <item type="txt">ser</item>
+              <item type="gls">every</item>
+               <item type="POS">quantifier</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">tete</item>
+            <morphemes>
+            <morph>
+              <item type="txt">tete</item>
+              <item type="gls">some</item>
+               <item type="POS">quantifier</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+            <item type="txt">nrak</item>
+            <morphemes>
+            <morph>
+              <item type="txt">nrak</item>
+              <item type="gls">time</item>
+               <item type="POS">n</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+        ...
+  </phrases>
+</interlinear_text>
+</resource>

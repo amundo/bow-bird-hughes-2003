@@ -1,0 +1,159 @@
+<interlinear_text>
+  <item type="title">Text 2</item>
+  <item type="comment">The myth of Damari and Guyala - see 1.5.  Guyala was a sensible man, who tried to organize the details of life logically and easily; but his brother Damari was silly and obstructive, often being intent on making things as complex and difficult as he could.  Told by Dick Moses in the coastal dialect (recorded at Yarrabah on 15 December 1970; duration 12 1/4 minutes).</item>
+  <phrases>
+    <phrase>
+      <item type="number">96</item>
+      <item type="gls">[Damari runs up and] bumps [into the tree; he] goes and collides with the Bougainvillea tree; and spears his body [on its prickles].</item>
+      <words>
+        <word>
+          <item type="txt">bundil</item>
+          <morphemes>
+            <morph>
+              <item type="gls">bump-PRES</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">dugi:l</item>
+          <morphemes>
+            <morph>
+              <item type="gls">tree-LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">bundi:lin</item>
+          <morphemes>
+            <morph>
+              <item type="gls">bump-GOING-PRES</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">danba:</item>
+          <morphemes>
+            <morph>
+              <item type="gls">Bougainvillea tree-LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">gula</item>
+          <morphemes>
+            <morph>
+              <item type="gls">body-ABS</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">baga:din</item>
+          <morphemes>
+            <morph>
+              <item type="gls">pierce-:-di-PRES</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">97</item>
+      <item type="gls">'I had to run [in the fight], and as a result my body got speared'.</item>
+      <words>
+        <word>
+          <item type="txt">nayu</item>
+          <morphemes>
+            <morph>
+              <item type="gls">I-SA</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">dunga:na</item>
+          <morphemes>
+            <morph>
+              <item type="gls">run-PURP</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nanan</item>
+          <morphemes>
+            <morph>
+              <item type="gls">I-O</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">gula</item>
+          <morphemes>
+            <morph>
+              <item type="gls">body-ABS</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">baga:dina</item>
+          <morphemes>
+            <morph>
+              <item type="gls">pierce-:-di-PURP</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">98</item>
+      <item type="gls">[I'll tell this to Guyala when] by-and-by [he] asks me [where I was in the battle, Damari thought to himself.]</item>
+      <item type="comment">Damari uses verbal derivational affix -:din in the 'inanimate agent' sense, so that the verb baga"di-n in 97 is still transitive (this is clearly shown by the O pronominal form nanan); he is thus implying that his wounds were caused accidentally.  In fact they were self-inflicted, and he should have used the 'reflexive' sense of -:di-n, deriving an intransitive stem, and said nayu gula baga:di-n.  See 4.2.5.</item>
+      <words>
+        <word>
+          <item type="txt">garu</item>
+          <morphemes>
+            <morph>
+              <item type="gls">by-and-by</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nanan</item>
+          <morphemes>
+            <morph>
+              <item type="gls">I-O</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">yaymi:lna</item>
+          <morphemes>
+            <morph>
+              <item type="gls">ask-PURP</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">98</item>
+      <item type="gls">[When Damari eventually did turn up at the fighting ground, Guyala asked him:] 'Where have you [come] from?'</item>
+      <words>
+        <word>
+          <item type="txt">nundu</item>
+          <morphemes>
+            <morph>
+              <item type="gls">you-SA</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">wandam</item>
+          <morphemes>
+            <morph>
+              <item type="gls">where-ABL</item>
+            </morph>
+          </morphemes>
+        </word>
+       </words>
+      </phrase>
+  </phrases>
+</interlinear_text>

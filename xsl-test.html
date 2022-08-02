@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<script>
+let xml = `<?xml version="1.0" encoding="utf-8"?>
+  <interlinear_text>
+    <item type="title">Sample of Ega formal speech Part 3</item>
+    <phrases>
+      <phrase>
+        <item type="gls"> Je suis ces gens la qui venus me voir </item>
+        <words>
+          <word begin="0" end="0.393106201409135">
+            <item type="txt">Egna</item>
+            <morphemes>
+              <morph>
+                <item type="txt">enja</item>
+                <item type="tone">low high</item> 
+              </morph>
+            </morphemes>
+          </word>
+          <word begin="0.393106201409135" end="0.491870549242424">
+            <item type="txt">ma</item>
+            <morphemes>
+              <morph>
+                <item type="txt">ma</item>
+                <item type="tone"> high</item> 
+              </morph>
+            </morphemes>
+          </word>
+          <word begin="0.491870549242424" end="0.677921936274509">
+            <item type="txt">mOn</item>
+            <morphemes>
+              <morph>
+                <item type="txt">mo</item>
+                <item type="tone">high</item> 
+              </morph>
+            </morphemes>
+          </word>
+          <word begin="0.677921936274509" end="0.831225101357303">
+            <item type="txt">wa</item>
+            <morphemes>
+              <morph>
+                <item type="txt">wa</item>
+                <item type="tone">high</item> 
+              </morph>
+            </morphemes>
+          </word>
+          <word begin="0.831225101357303" end="1.22709198633156">
+            <item type="txt">nEvEli</item>
+            <morphemes>
+              <morph>
+                <item type="txt">nEvEli</item>
+                <item type="tone">high low rising</item> 
+              </morph>
+            </morphemes>
+          </word>
+          <word begin="1.22709198633156" end="1.82666666666666">
+            <item type="txt">ma</item>
+            <morphemes>
+              <morph>
+                <item type="txt">ma</item>
+                <item type="tone">high</item> 
+              </morph>
+            </morphemes>
+          </word>
+        </words>
+      </phrase>
+    </phrases>
+  </interlinear_text>
+`
+
+
+let xsl = `<?xml version="1.0" encoding="utf-8"?>
+  <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+                  xmlns="http://www.w3.org/1999/XSL/Format"
+                  version="1.0">
+   <xsl:output method="html" version="4.0" encoding="UTF-8" indent="yes" /> 
+   <!--  <xsl:output method="html" version="4.0" encoding="UTF-8" indent="no" /> -->
+  
+    <xsl:template match="document">
+      <html>
+        <head>
+          <style>
+           span { display: inline-block; border: 1px solid black; vertical-align: top; }
+           table { text-align: left; }
+          </style>
+        </head>
+        <body>
+          <xsl:apply-templates/>
+        </body>
+      </html>
+    </xsl:template>
+  
+    <!-- INTERLINEAR-TEXT LEVEL -->
+  
+    <xsl:template match="interlinear-text">
+      <xsl:apply-templates/>
+    </xsl:template>
+  
+    <xsl:template match="interlinear-text/item">
+      <xsl:apply-templates/>
+    </xsl:template>
+  
+    <!-- PHRASE LEVEL -->
+  
+    <xsl:template match="phrases">
+      <xsl:apply-templates/>
+    </xsl:template>
+  
+    <xsl:template match="phrase">
+      <p>
+        <xsl:number format="1. "/>
+        <xsl:apply-templates/>
+      </p>
+    </xsl:template>
+  
+    <xsl:template match="phrase/item">
+      <xsl:choose>
+        <xsl:when test="@type='txt'">
+          <xsl:apply-templates/>
+        </xsl:when>
+        <xsl:when test="@type='gls'">
+          <xsl:apply-templates/>
+        </xsl:when>
+      </xsl:choose>
+    </xsl:template>
+  
+    <!-- WORD LEVEL -->
+  
+    <xsl:template match="words">
+      <xsl:apply-templates/>
+    </xsl:template>
+  
+    <xsl:template match="word">
+      <div>
+        <table>
+          <xsl:apply-templates/>
+        </table>
+      </div>
+    </xsl:template>
+  
+    <xsl:template match="word/item[@type='txt']">
+      <tr>
+        <td>
+          <xsl:apply-templates/>
+          <xsl:text>&#160;</xsl:text> 
+        </td>
+      </tr>
+    </xsl:template>
+  
+    <xsl:template match="word/item[@type='gls']">
+      <tr>
+        <td>
+          <xsl:if test="string(.)">
+            <xsl:apply-templates/>
+            <xsl:text>&#160;</xsl:text><br/>
+          </xsl:if>
+          <br/>
+        </td>
+      </tr>
+    </xsl:template>
+  
+    <!-- MORPHEME LEVEL -->
+  
+    <xsl:template match="morphemes">
+      <tr>
+        <td>
+          <xsl:apply-templates/>
+        </td>
+      </tr>
+    </xsl:template>
+  
+    <xsl:template match="morph">
+      <div>
+        <table>
+          <xsl:apply-templates/>
+        </table>
+      </div>
+    </xsl:template>
+  
+    <xsl:template match="morph/item">
+      <tr>
+        <td>
+          <xsl:apply-templates/> 
+          <xsl:text>&#160;</xsl:text> 
+        </td>
+      </tr>
+    </xsl:template>
+  
+    <!-- MISCELLANEOUS -->
+  
+    <xsl:template match="i">
+      <i>
+        <xsl:apply-templates/>
+      </i>
+    </xsl:template>
+  
+    <xsl:template match="b">
+      <b>
+        <xsl:apply-templates/>
+      </b>
+    </xsl:template>
+  
+    <xsl:template match="title">
+      <block font-style="bold">
+        <xsl:apply-templates/>
+      </block>
+    </xsl:template>
+  
+  
+    <xsl:template match="*">
+      <xsl:copy>
+        <xsl:copy-of select="@*"/>
+        <xsl:apply-templates/>
+      </xsl:copy>
+    </xsl:template>
+  
+  </xsl:stylesheet>
+`
+
+
+
+  let processor = new XSLTProcessor()
+  let dom = new DOMParser().parseFromString(xml, 'text/xml')
+  let xslStyleSheet = new DOMParser().parseFromString(xsl, 'text/xml')
+  processor.importStylesheet(xslStyleSheet)
+  let fragment = processor.transformToFragment(dom, document)
+  document.body.append(fragment)
+</script>  
+</body>
+</html>

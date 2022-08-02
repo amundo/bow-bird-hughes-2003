@@ -1,0 +1,151 @@
+
+
+{
+  "metadata": {
+    "title": "NIVKH TEXT"
+  },
+  "sentences": [
+    {
+      "metadata": {},
+      "words": [
+        {
+          "form": "p'-at'ik-xe",
+          "gloss": "REFL-younger-brother-AND"
+        },
+        {
+          "form": "p'-nanak-xe",
+          "gloss": "REFL-elder-sister-AND"
+        },
+        {
+          "form": "pan-d'",
+          "gloss": "grow-up-FIN"
+        },
+        {
+          "form": "at'ik",
+          "gloss": "younger-brother"
+        },
+        {
+          "form": "matka-d'",
+          "gloss": "be-small-FIN"
+        },
+        {
+          "form": "k'u-ye",
+          "gloss": "arrow-AND"
+        },
+        {
+          "form": "pund-ye",
+          "gloss": "bow-AND"
+        },
+        {
+          "form": "bo-ror",
+          "gloss": "take-GER-3SG"
+        },
+        {
+          "form": "p'u-r",
+          "gloss": "go-out-GER-3SG"
+        },
+        {
+          "form": "tevrq",
+          "gloss": "bird"
+        },
+        {
+          "form": "Xa-d'",
+          "gloss": "shoot-FIN"
+        },
+        {
+          "form": "iy-ror",
+          "gloss": "kill-GER-3SG"
+        },
+        {
+          "form": "r'ek-Nan",
+          "gloss": "bring-GER"
+        },
+        {
+          "form": "nanak",
+          "gloss": "elder-sister"
+        },
+        {
+          "form": "tevrq",
+          "gloss": "bird"
+        },
+        {
+          "form": "tupr'",
+          "gloss": "feather"
+        },
+        {
+          "form": "fevrk-t'",
+          "gloss": "pluck-FIN"
+        },
+        {
+          "form": "t'uur-tox",
+          "gloss": "fire-ALL"
+        },
+        {
+          "form": "r'a-tot",
+          "gloss": "cook-GER-3PL"
+        },
+        {
+          "form": "in-d'-yu",
+          "gloss": "eat-FIN-PL"
+        }
+      ],
+      "translation": "A younger brother and an elder sister grew up. The brother was small. He took his arrows and bow, went out, and shot birds. When he killed them, he brought them and the elder sister plucked the birds' feathers. When they had cooked them on the fire, they ate them.",
+      "transcription": "p'-at'ik-xe p'-nanak-xe pan-d' at'ik matka-d' k'u-ye pund-ye bo-ror p'u-r tevrq Xa-d' iy-ror r'ek-Nan nanak tevrq tupr' fevrk-t' t'uur-tox r'a-tot in-d'-yu"
+    },
+    {
+      "metadata": {},
+      "words": [
+        {
+          "form": "hongut'um-ke",
+          "gloss": "live-thus-GER"
+        },
+        {
+          "form": "atik",
+          "gloss": "younger-brother"
+        },
+        {
+          "form": "erk",
+          "gloss": "already"
+        },
+        {
+          "form": "pil-ra",
+          "gloss": "be-big-AND"
+        },
+        {
+          "form": "pal-rox",
+          "gloss": "forest-ALL"
+        },
+        {
+          "form": "mer-ra",
+          "gloss": "go-up-AND"
+        },
+        {
+          "form": "t''olnaj",
+          "gloss": "deer"
+        },
+        {
+          "form": "xu-ra",
+          "gloss": "kill-AND"
+        },
+        {
+          "form": "t'oX",
+          "gloss": "elk"
+        },
+        {
+          "form": "xu-ra",
+          "gloss": "kill-AND"
+        },
+        {
+          "form": "q'otr",
+          "gloss": "bear"
+        },
+        {
+          "form": "xu-ra",
+          "gloss": "kill-AND"
+        }
+      ],
+      "translation": "Living thus, the younger brother was already big and went up into the forest and killed deer, killed elk, and killed bear.",
+      "transcription": "hongut'um-ke atik erk pil-ra pal-rox mer-ra t''olnaj xu-ra t'oX xu-ra q'otr xu-ra"
+    }
+  ]
+}

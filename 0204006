@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=553;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("https://web.archive.org/web/", "20100330214303", "arxiv.org");
+</script>
+<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css" />
+<!-- End Wayback Rewrite JS Include -->
+
+<title>[cs/0204006] TableTrans, MultiTrans, InterTrans and TreeTrans: Diverse Tools Built on
+  the Annotation Graph Toolkit</title>
+<link rel="shortcut icon" href="/web/20100330214303im_/http://arxiv.org/favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" media="screen" href="/web/20100330214303cs_/http://arxiv.org/css/arXiv.css"/>
+
+</head>
+<body>
+<div id="header">
+<h1><a href="/web/20100330214303/http://arxiv.org/">arXiv.org</a> &gt; <a href="/web/20100330214303/http://arxiv.org/list/cs/recent">cs</a> &gt; arXiv:cs/0204006</h1>
+<form id="search" method="post" action="/web/20100330214303/http://arxiv.org/search">
+<div class="search-for">Search or Article-id</div>
+<div class="links">(<a href="/web/20100330214303/http://arxiv.org/help">Help</a> | <a href="/web/20100330214303/http://arxiv.org/find">Advanced search</a>)</div>
+<input type="text" name="query" size="14" maxlength="64"/>
+&nbsp;
+<select name="searchtype">
+<option value="all" selected="selected">All papers</option>
+<option value="ti">Titles</option>
+<option value="au">Authors</option>
+<option value="abs">Abstracts</option>
+<option value="ft">Full text</option>
+<option value="help">Help pages</option>
+</select>
+<input type="submit" value="Go!"/><br/>
+</form>
+</div>
+<div id="content">
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+    <rdf:Description
+        rdf:about="http://arxiv.org/abs/cs/0204006"
+        dc:identifier="http://arxiv.org/abs/cs/0204006"
+        dc:title="TableTrans, MultiTrans, InterTrans and TreeTrans: Diverse Tools Built on
+  the Annotation Graph Toolkit"
+        trackback:ping="http://arxiv.org/trackback/cs/0204006" />
+    </rdf:RDF>
+-->
+
+<div id="abs">
+<div class="extra-services">
+
+<div class="full-text">
+<span class="descriptor">Full-text links:</span>
+<h2>Download:</h2>
+<ul>
+<li><a href="/web/20100330214303/http://arxiv.org/pdf/cs/0204006v1" accesskey="f">PDF</a></li>
+<li><a href="/web/20100330214303/http://arxiv.org/ps/cs/0204006v1">PostScript</a></li>
+<li><a href="/web/20100330214303/http://arxiv.org/format/cs/0204006v1">Other formats</a></li>
+</ul>
+</div><!--end full-text-->
+
+<div class="browse">
+<h3>Current browse context:</h3>
+<div class="current">cs</div>
+<div class="prevnext"><span class="arrow"><a href="/web/20100330214303/http://arxiv.org/abs/cs/0204005" accesskey="p" title="previous in cs (accesskey p)">&lt;&nbsp;prev</a></span>&nbsp;|&nbsp;<span class="arrow"><a href="/web/20100330214303/http://arxiv.org/abs/cs/0204007" accesskey="n" title="next in cs (accesskey n)">next&nbsp;&gt;</a></span>
+<br/></div>
+<div class="list"><a href="/web/20100330214303/http://arxiv.org/list/cs/new">new</a>&nbsp;| <a href="/web/20100330214303/http://arxiv.org/list/cs/recent">recent</a>&nbsp;| <a href="/web/20100330214303/http://arxiv.org/list/cs/0204">0204</a></div>
+</div>
+<div class="extra-ref-cite">
+<h3>References &amp; Citations</h3><ul><li><a href="https://web.archive.org/web/20100330214303/http://citebase.eprints.org/cgi-bin/citations?id=oai:arXiv.org:cs/0204006">CiteBase</a></li>
+</ul>
+
+</div>
+<div class="dblp">
+<h3><a href="https://web.archive.org/web/20100330214303/http://www.informatik.uni-trier.de/~ley/db/">DBLP</a> - CS Bibliography</h3><div class="list">
+<a href="https://web.archive.org/web/20100330214303/http://www.informatik.uni-trier.de/~ley/db/journals/corr/corr0204.html#cs-CL-0204006" title="listing on DBLP">listing</a> | <a href="https://web.archive.org/web/20100330214303/http://dblp.uni-trier.de/rec/bibtex/journals/corr/cs-CL-0204006" title="DBLP bibtex record">bibtex</a>
+</div>
+<div class="list">
+<a href="https://web.archive.org/web/20100330214303/http://dblp.uni-trier.de/search/author?author=Steven%20Bird" title="DBLP author search">Steven Bird</a><br/>
+<a href="https://web.archive.org/web/20100330214303/http://dblp.uni-trier.de/search/author?author=Kazuaki%20Maeda" title="DBLP author search">Kazuaki Maeda</a><br/>
+<a href="https://web.archive.org/web/20100330214303/http://dblp.uni-trier.de/search/author?author=Xiaoyi%20Ma" title="DBLP author search">Xiaoyi Ma</a><br/>
+<a href="https://web.archive.org/web/20100330214303/http://dblp.uni-trier.de/search/author?author=Haejoong%20Lee" title="DBLP author search">Haejoong Lee</a><br/>
+<a href="https://web.archive.org/web/20100330214303/http://dblp.uni-trier.de/search/author?author=Beth%20Randall" title="DBLP author search">Beth Randall</a><br/>
+<div class="list">
+ ... 
+</div>
+</div>
+
+</div>
+<div class="bookmarks">
+<div class="what-is-this">
+<h3>Bookmark</h3> (<a href="/web/20100330214303/http://arxiv.org/help/social_bookmarking">what is this?</a>)
+</div>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Fwww.citeulike.org%2Fposturl%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006%26title%3DTableTrans%252C%2520MultiTrans%252C%2520InterTrans%2520and%2520TreeTrans%253A%2520Diverse%2520Tools%2520Built%2520on%250A%2520%2520the%2520Annotation%2520Graph%2520Toolkit%26authors%3D&amp;v=ed188351" title="Bookmark on CiteULike"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/citeulike.gif" alt="CiteULike logo"/></a>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Fwww.connotea.org%2Faddpopup%3Furi%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006&amp;v=84e44fea" title="Bookmark on Connotea"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/connotea.gif" alt="Connotea logo"/></a>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Fwww.bibsonomy.org%2FBibtexHandler%3FrequTask%3Dupload%26url%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006%26description%3DTableTrans%252C%2520MultiTrans%252C%2520InterTrans%2520and%2520TreeTrans%253A%2520Diverse%2520Tools%2520Built%2520on%250A%2520%2520the%2520Annotation%2520Graph%2520Toolkit&amp;v=a00cbc31" title="Bookmark on BibSonomy"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/bibsonomy.gif" alt="BibSonomy logo"/></a>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Fwww.mendeley.com%2Fimport%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006&amp;v=10699de6" title="Bookmark on Mendeley"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/mendeley.gif" alt="Mendeley logo"/></a>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Fexport.arxiv.org%2Ffb%2Farxivpost%2F%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006&amp;v=a0fa58b9" title="Bookmark on Facebook"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/facebook.gif" alt="Facebook logo"/></a>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Fdel.icio.us%2Fpost%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006%26description%3DTableTrans%252C%2520MultiTrans%252C%2520InterTrans%2520and%2520TreeTrans%253A%2520Diverse%2520Tools%2520Built%2520on%250A%2520%2520the%2520Annotation%2520Graph%2520Toolkit&amp;v=f9a01623" title="Bookmark on del.icio.us"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/delicious.gif" alt="del.icio.us logo"/></a>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Fdigg.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006%26title%3DTableTrans%252C%2520MultiTrans%252C%2520InterTrans%2520and%2520TreeTrans%253A%2520Diverse%2520Tools%2520Built%2520on%250A%2520%2520the%2520Annotation%2520Graph%2520Toolkit&amp;v=f1913f84" title="Bookmark on Digg"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/digg.gif" alt="Digg logo"/></a>
+<a href="/web/20100330214303/http://arxiv.org/ct?url=http%3A%2F%2Freddit.com%2Fsubmit%3Furl%3Dhttp%3A%2F%2Farxiv.org%2Fabs%2Fcs%2F0204006%26title%3DTableTrans%252C%2520MultiTrans%252C%2520InterTrans%2520and%2520TreeTrans%253A%2520Diverse%2520Tools%2520Built%2520on%250A%2520%2520the%2520Annotation%2520Graph%2520Toolkit&amp;v=2a33ff2b" title="Bookmark on Reddit"><img src="/web/20100330214303im_/http://arxiv.org/icons/social/reddit.gif" alt="Reddit logo"/></a>
+
+</div>
+</div><!--end extra-services-->
+
+<div class="leftcolumn">
+<div class="subheader">
+<h1>Computer Science &gt; Computation and Language</h1>
+</div>
+<h1 class="title"><span class="descriptor">Title:</span>
+TableTrans, MultiTrans, InterTrans and TreeTrans: Diverse Tools Built on  the Annotation Graph Toolkit</h1>
+<div class="authors"><span class="descriptor">Authors:</span>
+<a href="/web/20100330214303/http://arxiv.org/find/cs/1/au:+Bird_S/0/1/0/all/0/1">Steven Bird</a>, 
+<a href="/web/20100330214303/http://arxiv.org/find/cs/1/au:+Maeda_K/0/1/0/all/0/1">Kazuaki Maeda</a>, 
+<a href="/web/20100330214303/http://arxiv.org/find/cs/1/au:+Ma_X/0/1/0/all/0/1">Xiaoyi Ma</a>, 
+<a href="/web/20100330214303/http://arxiv.org/find/cs/1/au:+Lee_H/0/1/0/all/0/1">Haejoong Lee</a>, 
+<a href="/web/20100330214303/http://arxiv.org/find/cs/1/au:+Randall_B/0/1/0/all/0/1">Beth Randall</a>, 
+<a href="/web/20100330214303/http://arxiv.org/find/cs/1/au:+Zayat_S/0/1/0/all/0/1">Salim Zayat</a></div>
+<div class="dateline">(Submitted on 3 Apr 2002)</div>
+<blockquote class="abstract">
+<span class="descriptor">Abstract:</span> Four diverse tools built on the Annotation Graph Toolkit are described. Each
+tool associates linguistic codes and structures with time-series data. All are
+based on the same software library and tool architecture. TableTrans is for
+observational coding, using a spreadsheet whose rows are aligned to a signal.
+MultiTrans is for transcribing multi-party communicative interactions recorded
+using multi-channel signals. InterTrans is for creating interlinear text
+aligned to audio. TreeTrans is for creating and manipulating syntactic trees.
+This work demonstrates that the development of diverse tools and re-use of
+software components is greatly facilitated by a common high-level application
+programming interface for representing the data and managing input/output,
+together with a common architecture for managing the interaction of multiple
+components.
+</blockquote>
+<!--CONTEXT-->
+<div class="metatable">
+<table summary="Additional metadata">
+<tr>
+<td class="tablecell label">Comments:
+</td>
+<td class="tablecell comments">7 pages, 7 figures</td>
+</tr>
+<tr>
+<td class="tablecell label">Subjects:
+</td>
+<td class="tablecell subjects"><span class="primary-subject">Computation and Language (cs.CL)</span>; Sound (cs.SD)</td>
+</tr>
+<tr>
+<td class="tablecell label">
+<abbr title="Association of Computing Machinery Classification">ACM</abbr>&nbsp;classes:
+</td>
+<td class="tablecell acm-classes">D.2.13; H.5.5; I.2.7</td>
+</tr>
+<tr>
+<td class="tablecell label">
+Journal&nbsp;reference:
+</td>
+<td class="tablecell jref">Proceedings of the Third International Conference on Language
+  Resources and Evaluation, Paris: European Language Resources Association,
+  2002</td>
+</tr>
+<tr>
+<td class="tablecell label">
+Cite&nbsp;as:
+</td>
+<td class="tablecell arxivid"><a href="/web/20100330214303/http://arxiv.org/abs/cs/0204006v1">arXiv:cs/0204006v1</a> [cs.CL]</td>
+</tr>
+</table>
+</div>
+<div class="submission-history">
+<h2>Submission history</h2>
+From: Steven Bird [<a href="https://web.archive.org/web/20100330214303/http://arxiv.org/auth/show-email/fe2efba8/cs/0204006">view email</a>]
+<br/>
+<b>[v1]</b> Wed, 3 Apr 2002 17:18:49 GMT  (241kb)<br/>
+</div>
+<div class="endorsers"><a href="https://web.archive.org/web/20100330214303/http://arxiv.org/auth/show-endorsers/cs/0204006">Which authors of this paper are endorsers?</a></div>
+</div><!--end leftcolumn-->
+</div><!--end abs-->
+</div>
+<div id="footer">
+<p>Link back to: <a href="https://web.archive.org/web/20100330214303/http://arxiv.org/">arXiv</a>, <a href="/web/20100330214303/http://arxiv.org/form">form interface</a>, <a href="/web/20100330214303/http://arxiv.org/help/contact">contact</a>.</p>
+</div>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:43:03 Mar 30, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:53:36 Feb 14, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 109.524 (3)
+  PetaboxLoader3.datanode: 297.324 (4)
+  PetaboxLoader3.resolve: 174.856
+  captures_list: 130.608
+  exclusion.robots.policy: 0.291
+  exclusion.robots: 0.31
+  esindex: 0.022
+  CDXLines.iter: 13.844 (3)
+  RedisCDXSource: 1.805
+  load_resource: 393.309
+-->

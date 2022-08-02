@@ -1,0 +1,64 @@
+<interlinear_text>
+  <item type="title">Sample of Ega formal speech Part 3</item>
+  <phrases>
+    <phrase>
+      <item type="gls"> Je suis ces gens la qui venus me voir </item>
+      <words>
+        <word begin="0" end="0.393106201409135">
+          <item type="txt">Egna</item>
+          <morphemes>
+            <morph>
+              <item type="txt">enja</item>
+              <item type="tone">low high</item> 
+            </morph>
+          </morphemes>
+        </word>
+        <word begin="0.393106201409135" end="0.491870549242424">
+          <item type="txt">ma</item>
+          <morphemes>
+            <morph>
+              <item type="txt">ma</item>
+              <item type="tone"> high</item> 
+            </morph>
+          </morphemes>
+        </word>
+        <word begin="0.491870549242424" end="0.677921936274509">
+          <item type="txt">mOn</item>
+          <morphemes>
+            <morph>
+              <item type="txt">mo</item>
+              <item type="tone">high</item> 
+            </morph>
+          </morphemes>
+        </word>
+        <word begin="0.677921936274509" end="0.831225101357303">
+          <item type="txt">wa</item>
+          <morphemes>
+            <morph>
+              <item type="txt">wa</item>
+              <item type="tone">high</item> 
+            </morph>
+          </morphemes>
+        </word>
+        <word begin="0.831225101357303" end="1.22709198633156">
+          <item type="txt">nEvEli</item>
+          <morphemes>
+            <morph>
+              <item type="txt">nEvEli</item>
+              <item type="tone">high low rising</item> 
+            </morph>
+          </morphemes>
+        </word>
+        <word begin="1.22709198633156" end="1.82666666666666">
+          <item type="txt">ma</item>
+          <morphemes>
+            <morph>
+              <item type="txt">ma</item>
+              <item type="tone">high</item> 
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+  </phrases>
+</interlinear_text>

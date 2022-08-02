@@ -1,0 +1,24 @@
+
+<interlinear_text>
+  <item type="title">The Title</item>
+  <phrases>
+    <phrase>
+      <item type="gls">A phrasal translation</item>
+      <words>
+        <word>
+          <item type="txt">Word</item>
+          <morphemes>
+            <morph>
+              <item type="txt">Morph</item>
+              <item type="gls">Gloss</item>
+            </morph>
+            <morph>
+              <item type="txt">Morph</item>
+              <item type="gls">Gloss</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+  </phrases>
+</interlinear_text>

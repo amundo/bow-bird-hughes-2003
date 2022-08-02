@@ -1,0 +1,404 @@
+<interlinear-text>
+  <item type="title">NIVKH TEXT</item>
+  <phrases>
+    <phrase>
+      <item type="gls">A younger brother and an elder sister grew up.  The brother was small.  He took his arrows and bow, went out, and shot birds.  When he killed them, he brought them and the elder sister plucked the birds' feathers.  When they had cooked them on the fire, they ate them.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">p'</item>
+              <item type="gls">REFL</item>
+            </morph>
+            <morph>
+              <item type="txt">at'ik</item>
+              <item type="gls">younger-brother</item>
+            </morph>
+            <morph>
+              <item type="txt">xe</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">p'</item>
+              <item type="gls">REFL</item>
+            </morph>
+            <morph>
+              <item type="txt">nanak</item>
+              <item type="gls">elder-sister</item>
+            </morph>
+            <morph>
+              <item type="txt">xe</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pan</item>
+              <item type="gls">grow-up</item>
+            </morph>
+            <morph>
+              <item type="txt">d'</item>
+              <item type="gls">FIN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">at'ik</item>
+              <item type="gls">younger-brother</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">matka</item>
+              <item type="gls">be-small</item>
+            </morph>
+            <morph>
+              <item type="txt">d'</item>
+              <item type="gls">FIN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">k'u</item>
+              <item type="gls">arrow</item>
+            </morph>
+            <morph>
+              <item type="txt">ye</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pund</item>
+              <item type="gls">bow</item>
+            </morph>
+            <morph>
+              <item type="txt">ye</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">bo</item>
+              <item type="gls">take</item>
+            </morph>
+            <morph>
+              <item type="txt">ror</item>
+              <item type="gls">GER-3SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">p'u</item>
+              <item type="gls">go-out</item>
+            </morph>
+            <morph>
+              <item type="txt">r</item>
+              <item type="gls">GER-3SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">tevrq</item>
+              <item type="gls">bird</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Xa</item>
+              <item type="gls">shoot</item>
+            </morph>
+            <morph>
+              <item type="txt">d'</item>
+              <item type="gls">FIN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">iy</item>
+              <item type="gls">kill</item>
+            </morph>
+            <morph>
+              <item type="txt">ror</item>
+              <item type="gls">GER-3SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">r'ek</item>
+              <item type="gls">bring</item>
+            </morph>
+            <morph>
+              <item type="txt">Nan</item>
+              <item type="gls">GER</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">nanak</item>
+              <item type="gls">elder-sister</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">tevrq</item>
+              <item type="gls">bird</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">tupr'</item>
+              <item type="gls">feather</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">fevrk</item>
+              <item type="gls">pluck</item>
+            </morph>
+            <morph>
+              <item type="txt">t'</item>
+              <item type="gls">FIN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">t'uur</item>
+              <item type="gls">fire</item>
+            </morph>
+            <morph>
+              <item type="txt">tox</item>
+              <item type="gls">ALL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">r'a</item>
+              <item type="gls">cook</item>
+            </morph>
+            <morph>
+              <item type="txt">tot</item>
+              <item type="gls">GER-3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">in</item>
+              <item type="gls">eat</item>
+            </morph>
+            <morph>
+              <item type="txt">d'</item>
+              <item type="gls">FIN</item>
+            </morph>
+            <morph>
+              <item type="txt">yu</item>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="gls">Living thus, the younger brother was already big and went up into the forest and killed deer, killed elk, and killed bear.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">hongut'um</item>
+              <item type="gls">live-thus</item>
+            </morph>
+            <morph>
+              <item type="txt">ke</item>
+              <item type="gls">GER</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">atik</item>
+              <item type="gls">younger-brother</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">erk</item>
+              <item type="gls">already</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pil</item>
+              <item type="gls">be-big</item>
+            </morph>
+            <morph>
+              <item type="txt">ra</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">pal</item>
+              <item type="gls">forest</item>
+            </morph>
+            <morph>
+              <item type="txt">rox</item>
+              <item type="gls">ALL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">mer</item>
+              <item type="gls">go-up</item>
+            </morph>
+            <morph>
+              <item type="txt">ra</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">t''olnaj</item>
+              <item type="gls">deer</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">xu</item>
+              <item type="gls">kill</item>
+            </morph>
+            <morph>
+              <item type="txt">ra</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">t'oX</item>
+              <item type="gls">elk</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">xu</item>
+              <item type="gls">kill</item>
+            </morph>
+            <morph>
+              <item type="txt">ra</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">q'otr</item>
+              <item type="gls">bear</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">xu</item>
+              <item type="gls">kill</item>
+            </morph>
+            <morph>
+              <item type="txt">ra</item>
+              <item type="gls">AND</item>
+            </morph>
+          </morphemes>
+        </word>
+       </words>
+      </phrase>
+     ...
+  </phrases>
+</interlinear-text>

@@ -1,0 +1,35 @@
+Garawa text
+
+Source:    \dn14.003.01
+
+Speakers:  Bindie West (Moreland) (speaker code: B), Stumpy George (speaker code: S)
+           In the transcript, Flint actually uses three code letters: B, S and G.  
+           G may stand for "Stumpy George".
+
+The sound recording of this material is not available. The conversation recorded on the audio-tape (\cm R297C) presumably corresponds to the text transcribed in \dn 14.003.01.  However, the informants' speech was very rapid and somewhat unclear, and no clear connections between the recording and the transcript could be made.
+
+This text material is unanalysed, so the analysis, gloss and "other sources" fields are not included.
+
+ 
+\sp   G
+\ft   nanyi??/nganyi??     ngaranjan    jilajbaya     ngabayan          yanba   cont.
+\fg   my                   mother       go            white man         talk    cont.
+\ft   ngangangi
+\fg   want    
+\ncr
+\ncft It is difficult to determine word order here, and which sentences words belong to.
+\ncfg “white man” refers to a “Mr Haely??”, whose name is written beneath ngabayan.
+\fft       
+\ncfft    
+
+\sp   G??
+\ft   kudbinji     jilabaya kingkarina    (namukiya    yan ba lajba)     cont.   
+\fg   happy        go       down          paint        paint??           cont.   
+\ft   yalungka
+\fg   all fellows down at [camp]
+\ncr
+\ncft
+\ncfg
+\fft       
+\ncfft    
+

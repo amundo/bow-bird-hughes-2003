@@ -1,0 +1,77 @@
+<interlinear-text>
+  <item type="title">Proverbs</item>
+  <phrases>
+    <phrase>
+      <item type="gls">Leaves that have fallen down can't go back upward</item>
+      <item type="mng">Take advantage of the present moment, because
+       once the opportunity is gone it can never come back</item>
+      <words>
+        <word>
+          <item type="txt">Inzi</item>
+          <morphemes>
+            <morph>
+              <item type="txt">inzi</item>
+              <item type="gls">NEG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word> 
+           <item type="txt">obvo</item>
+           <morphemes>
+            <morph>
+              <item type="txt">obvo</item>
+              <item type="gls">down</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+           <item type="txt">itsi</item>
+           <morphemes>
+            <morph>
+              <item type="txt">itsi</item>
+              <item type="gls">fall:PF.PR</item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">sobi</item>
+          <morphemes>
+            <morph>
+              <item type="txt">sobi</item>
+              <item type="gls">leaf</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word> 
+           <item type="txt">narongo</item>
+           <morphemes>
+            <morph>
+              <item type="txt">ni</item>
+              <item type="gls">RSM</item>
+            </morph>
+            <morph>
+              <item type="txt">ari</item>
+              <item type="gls">HAB</item>
+            </morph>
+            <morph>
+              <item type="txt">ongo</item>
+              <item type="gls">return:NOM1</item>
+            </morph>
+           </morphemes>
+        </word>
+        <word>
+          <item type="txt">oru</item>
+          <morphemes>
+            <morph>
+              <item type="txt">oru</item>
+              <item type="gls">up.in.the.air</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+  </phrases>
+</interlinear-text>
+
+
+

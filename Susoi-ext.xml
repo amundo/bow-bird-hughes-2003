@@ -1,0 +1,653 @@
+  <interlinear_text>
+  <item type="title">An excerpt from Susoi 1990, p.20</item>
+  <item type="gls">Traditional folk songs. Besides presenting
+        various kinds of tales(lax'nako), lament recitatives (yarobc'),
+        and heroic recitatives (syud'bobc'), the people, in the course 
+        of their lives, have made songs in their own minds. On the surface
+        of the earth, only few people cannot perform words made by 
+        themselves as a song they are the ones unable to perform a song.
+        Such people are very few.</item>
+  <phrases>
+    <phrase>
+      <words>
+        <word>
+          <item type="txt">Nyew'xi'</item>
+          <morphemes>
+            <morph>
+              <item type="gls">ancient</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nyenecyoyeq</item>
+          <morphemes>
+            <morph>
+              <item type="gls">person</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">GEN</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">syoq</item>
+          <morphemes>
+            <morph>
+              <item type="gls">song</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">Xurkaryi</item>
+          <morphemes>
+            <morph>
+              <item type="gls">what kind</item>
+            </morph>
+            <morph>
+              <item type="gls">LIM</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">lax'naku</item>
+          <morphemes>
+            <morph>
+              <item type="gls">tale</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">ACC</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">yarobc'</item>
+          <morphemes>
+            <morph>
+              <item type="gls">yarabts</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">ACC</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">syud'bobc'</item>
+          <morphemes>
+            <morph>
+              <item type="gls">syudbabts</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">ACC</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">ngodyibyelyewantoh</item>
+          <morphemes>
+            <morph>
+              <item type="gls">present</item>
+            </morph>
+            <morph>
+              <item type="gls">INF</item>
+            </morph>
+            <morph>
+              <item type="gls">IMPERF</item>
+            </morph>
+            <morph>
+              <item type="gls">POSS</item>
+            </morph>
+            <morph>
+              <item type="gls">GEN</item>
+            </morph>
+            <morph>
+              <item type="gls">SG3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">xaw'na</item>
+          <morphemes>
+            <morph>
+              <item type="gls">besides</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nyenecyo'q</item>
+          <morphemes>
+            <morph>
+              <item type="gls">person</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">yilyewantoh</item>
+          <morphemes>
+            <morph>
+              <item type="gls">live</item>
+            </morph>
+            <morph>
+              <item type="gls">INF</item>
+            </morph>
+            <morph>
+              <item type="gls">IMPERF</item>
+            </morph>
+            <morph>
+              <item type="gls">POSS</item>
+            </morph>
+            <morph>
+              <item type="gls">GEN</item>
+            </morph>
+            <morph>
+              <item type="gls">SG3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">yampon'h</item>
+          <morphemes>
+            <morph>
+              <item type="gls">long</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">DAT</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">xor'toh</item>
+          <morphemes>
+            <morph>
+              <item type="gls">self</item>
+            </morph>
+            <morph>
+              <item type="gls">3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">yix'ntoh</item>
+          <morphemes>
+            <morph>
+              <item type="gls">mind</item>
+            </morph>
+            <morph>
+              <item type="gls">POSS</item>
+            </morph>
+            <morph>
+              <item type="gls">DAT</item>
+            </morph>
+            <morph>
+              <item type="gls">SG3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">syoyo</item>
+          <morphemes>
+            <morph>
+              <item type="gls">song</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">ACC</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">syertabowi'q</item>
+          <morphemes>
+            <morph>
+              <item type="gls">make</item>
+            </morph>
+            <morph>
+              <item type="gls">DUR</item>
+            </morph>
+            <morph>
+              <item type="gls">NARR</item>
+            </morph>
+            <morph>
+              <item type="gls">SUBJ</item>
+            </morph>
+            <morph>
+              <item type="gls">3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">Yah</item>
+          <morphemes>
+            <morph>
+              <item type="gls">earth</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">GEN</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">syar'h</item>
+          <morphemes>
+            <morph>
+              <item type="gls">surface</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">GEN</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nyinya</item>
+          <morphemes>
+            <morph>
+              <item type="gls">on</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">ngoyak'q</item>
+          <morphemes>
+            <morph>
+              <item type="gls">rare</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nyenecyolyiq</item>
+          <morphemes>
+            <morph>
+              <item type="gls">person</item>
+            </morph>
+            <morph>
+              <item type="gls">LIM</item>
+            </morph>  
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">xor'toh</item>
+          <morphemes>
+            <morph>
+              <item type="gls">self</item>
+            </morph>
+            <morph>
+              <item type="gls">3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">syertawi'</item>
+          <morphemes>
+            <morph>
+              <item type="gls">make</item>
+            </morph>
+            <morph>
+              <item type="gls">PARTIC</item>
+            </morph>
+            <morph>
+              <item type="gls">PERF</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">wadyidoh</item>
+          <morphemes>
+            <morph>
+              <item type="gls">word</item>
+            </morph>
+            <morph>
+              <item type="gls">POSS</item>
+            </morph>
+            <morph>
+              <item type="gls">ACC</item>
+            </morph>
+            <morph>
+              <item type="gls">PL3PL</item>
+            </morph>
+					</morphemes>
+        </word>
+        <word>
+          <item type="txt">syongae</item>
+          <morphemes>
+            <morph>
+              <item type="gls">song</item>
+            </morph>
+            <morph>
+              <item type="gls">ESS</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">mecy'</item>
+          <morphemes>
+            <morph>
+              <item type="gls">perform</item>
+            </morph>
+            <morph>
+              <item type="gls">GER</item>
+            </morph>
+            <morph>
+              <item type="gls">MOD</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nyidoh</item>
+          <morphemes>
+            <morph>
+              <item type="gls">not</item>
+            </morph>
+            <morph>
+              <item type="gls">IND</item>
+            </morph>
+            <morph>
+              <item type="gls">OBJ</item>
+            </morph>
+            <morph>
+              <item type="gls">PL3PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">pyiros'q</item>
+          <morphemes>
+            <morph>
+              <item type="gls">can</item>
+            </morph>
+            <morph>
+              <item type="gls">CONNEG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">tyiki'q</item>
+          <morphemes>
+            <morph>
+              <item type="gls">it</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">syom</item>
+          <morphemes>
+            <morph>
+              <item type="gls">song</item>
+            </morph>
+            <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">ACC</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">mecy'</item>
+          <morphemes>
+            <morph>
+              <item type="gls">perform</item>
+            </morph>
+            <morph>
+              <item type="gls">GER</item>
+            </morph>
+            <morph>
+              <item type="gls">MOD</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nyinya</item>
+          <morphemes>
+            <morph>
+              <item type="gls">not</item>
+            </morph>
+            <morph>
+              <item type="gls">PARTIC</item>
+            </morph>
+            <morph>
+              <item type="gls">IMPERF</item>
+            </morph>
+           <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">pyir'taq</item>
+          <morphemes>
+            <morph>
+              <item type="gls">can</item>
+            </morph>
+            <morph>
+              <item type="gls">PARTIC</item>
+            </morph>
+            <morph>
+              <item type="gls">IMPERF</item>
+            </morph>
+           <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+          <item type="txt">xibyaq</item>
+          <morphemes>
+            <morph>
+              <item type="gls">who</item>
+            </morph>
+           <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">PL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">Torcya</item>
+          <morphemes>
+            <morph>
+              <item type="gls">such</item>
+            </morph>
+           <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">nyenecy'h</item>
+          <morphemes>
+            <morph>
+              <item type="gls">person</item>
+            </morph>
+           <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt">ngulyiq</item>
+          <morphemes>
+            <morph>
+              <item type="gls">very</item>
+            </morph>
+      </morphemes>
+        </word>
+        <word>
+          <item type="txt">tyanyo</item>
+          <morphemes>
+            <morph>
+              <item type="gls">little</item>
+            </morph>
+           <morph>
+              <item type="gls">ABS</item>
+            </morph>
+            <morph>
+              <item type="gls">NOM</item>
+            </morph>
+            <morph>
+              <item type="gls">SG</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+   </phrase>
+  </phrases>
+</interlinear_text>

@@ -1,0 +1,372 @@
+﻿<resource>
+  <interlinear_text>
+  <item type="title">Lobhi Kukur (Lo)</item>
+  <phrases>
+    <phrase>
+      <item type="gls">This is a story of a greedy dog.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yo</item>
+              <item type="gls">PROX.L</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yoTaa</item>
+              <item type="gls">one</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">lobhi</item>
+              <item type="gls">greedy</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kukur</item>
+              <item type="gls">dog</item>
+            </morph>
+            <morph>
+              <item type="txt">ko</item>
+              <item type="gls">GEN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kathaa</item>
+              <item type="gls">story</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ho</item>
+              <item type="gls">be1.3smL</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="gls">The title of this story is 'Greedy Dog'.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yo</item>
+              <item type="gls">PROX.L</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kathaa</item>
+              <item type="gls">story</item>
+            </morph>
+            <morph>
+              <item type="txt">ko</item>
+              <item type="gls">GEN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">sirsak</item>
+              <item type="gls">title</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">lobhi</item>
+              <item type="gls">greedy</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kukur</item>
+              <item type="gls">dog</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ho</item>
+              <item type="gls">be1.3smL</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="gls">Once, one dog went out in search of food.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ek</item>
+              <item type="gls">one</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">coTi</item>
+              <item type="gls">instance</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yoTaa</item>
+              <item type="gls">one</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">kukur</item>
+              <item type="gls">dog</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">khaanaa</item>
+              <item type="gls">food</item>
+            </morph>
+            <morph>
+              <item type="txt">ko</item>
+              <item type="gls">GEN</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">khoji</item>
+              <item type="gls">search</item>
+            </morph>
+            <morph>
+              <item type="txt">maa</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">baahira</item>
+              <item type="gls">outside</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">nisk</item>
+              <item type="gls">come.out</item>
+            </morph>
+            <morph>
+              <item type="txt">yo</item>
+              <item type="gls">3smL.PST</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="gls">He was walking.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">u</item>
+              <item type="gls">3L</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">hi~D</item>
+              <item type="gls">walk</item>
+            </morph>
+            <morph>
+              <item type="txt">day</item>
+              <item type="gls">SP</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <morphemes>
+            <morph>
+              <item type="txt">gar</item>
+              <item type="gls">do</item>
+            </morph>
+            <morph>
+              <item type="txt">eko</item>
+              <item type="gls">PP</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">thi</item>
+              <item type="gls">be.PST</item>
+            </morph>
+            <morph>
+              <item type="txt">yo</item>
+              <item type="gls">3smL.PST</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="gls">While walking, he found a dead animal on the
+       path.</item>
+      <words>        
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">hi~D</item>
+              <item type="gls">walk</item>
+            </morph>
+            <morph>
+              <item type="txt">day</item>
+              <item type="gls">SP</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">jaa~</item>
+              <item type="gls">go</item>
+            </morph>
+            <morph>
+              <item type="txt">daa</item>
+              <item type="gls">SP</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">usle</item>
+              <item type="gls">3L.ERG</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">baaTo</item>
+              <item type="gls">path</item>
+            </morph>
+            <morph>
+              <item type="txt">maa</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">yoTaa</item>
+              <item type="gls">one</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">mar</item>
+              <item type="gls">die</item>
+            </morph>
+            <morph>
+              <item type="txt">eko</item>
+              <item type="gls">PP</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">janaawar</item>
+              <item type="gls">animal</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>         
+          <item type="txt"> </item>
+          <morphemes>
+            <morph>
+              <item type="txt">phelaapaar</item>
+              <item type="gls">find</item>
+            </morph>
+            <morph>
+              <item type="txt">yo</item>
+              <item type="gls">3smL.PST</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+  </phrases>
+</interlinear_text>
+</resource>

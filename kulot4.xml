@@ -1,0 +1,3876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+  <interlinear-text>
+    <item type="title">
+      <b>Kulot saka Nauhay
+      </b>
+    </item>
+    <phrases>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>main</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>main</i>
+                </item>
+                <item type="gls">EXT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">have</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>akina</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ako</i>
+                </item>
+                <item type="gls">1S,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+            </morphemes>
+            <item type="gls">I now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>êt</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>êt</i>
+                </item>
+                <item type="gls">also</item>
+              </morph>
+            </morphemes>
+            <item type="gls">also</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mihay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>miha</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">one</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>istorya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>istorya</i>
+                </item>
+                <item type="gls">story</item>
+              </morph>
+            </morphemes>
+            <item type="gls">story</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tungkol</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tungkol</i>
+                </item>
+                <item type="gls">about</item>
+              </morph>
+            </morphemes>
+            <item type="gls">about</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>a</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+            </morphemes>
+            <item type="gls">now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>êt</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>êt</i>
+                </item>
+                <item type="gls">also</item>
+              </morph>
+            </morphemes>
+            <item type="gls">also</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ayta</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>Ayta</i>
+                </item>
+                <item type="gls">Ayta</item>
+              </morph>
+            </morphemes>
+            <item type="gls">Ayta</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>haka</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>haka</i>
+                </item>
+                <item type="gls">and</item>
+              </morph>
+            </morphemes>
+            <item type="gls">and</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nauhay</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>na-</i>
+                </item>
+                <item type="gls">ADJ-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>uhay</i>
+                </item>
+                <item type="gls">comb</item>
+              </morph>
+            </morphemes>
+            <item type="gls">straight-haired</item>
+          </word>
+        </words>
+        <item type="gls"> I have another story that is again about the Ayta and the straight­haired people.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>hato</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hato</i>
+                </item>
+                <item type="gls">D3</item>
+              </morph>
+            </morphemes>
+            <item type="gls">back when</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kanon</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kano</i>
+                </item>
+                <item type="gls">it's said</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">it's said</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>unan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>una</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">first</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>panaon</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>panaon</i>
+                </item>
+                <item type="gls">time</item>
+              </morph>
+            </morphemes>
+            <item type="gls">time</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>pare-parehon</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-CVCV-</i>
+                </item>
+                <item type="gls">-INT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>pareho</i>
+                </item>
+                <item type="gls">same</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">all the same</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nauhay</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>na-</i>
+                </item>
+                <item type="gls">ADJ-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>uhay</i>
+                </item>
+                <item type="gls">comb</item>
+              </morph>
+            </morphemes>
+            <item type="gls">straight-haired</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>habot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>habot</i>
+                </item>
+                <item type="gls">hair</item>
+              </morph>
+            </morphemes>
+            <item type="gls">hair</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tamo</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tamo</i>
+                </item>
+                <item type="gls">1PI,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">our(incl)</item>
+          </word>
+        </words>
+        <item type="gls"> It's said that back in the early days, our hair was just the same as straight-haired people.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>kabay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kabay</i>
+                </item>
+                <item type="gls">so</item>
+              </morph>
+            </morphemes>
+            <item type="gls">so</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>napihabian</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>ka-</i>
+                </item>
+                <item type="gls">ABL-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pi-</i>
+                </item>
+                <item type="gls">PL-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>habi</i>
+                </item>
+                <item type="gls">word</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-an</i>
+                </item>
+                <item type="gls">-LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">discussed</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>lan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>la</i>
+                </item>
+                <item type="gls">3P,GEN</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">ERG</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they-the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>manan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>mana</i>
+                </item>
+                <item type="gls">former</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">former</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>toa</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>toa</i>
+                </item>
+                <item type="gls">elders</item>
+              </morph>
+            </morphemes>
+            <item type="gls">elders</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>main</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>main</i>
+                </item>
+                <item type="gls">EXT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">have something</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hilan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hila</i>
+                </item>
+                <item type="gls">3P,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they-that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>daygên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>dyag</i>
+                </item>
+                <item type="gls">do</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-ên</i>
+                </item>
+                <item type="gls">-FUT:PAT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will do</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mihay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>miha</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">something-that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>makapaêpapah</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>paka-</i>
+                </item>
+                <item type="gls">AGT:ABL-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pa-</i>
+                </item>
+                <item type="gls">CAU-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>êpapah</i>
+                </item>
+                <item type="gls">surprise</item>
+              </morph>
+            </morphemes>
+            <item type="gls">can cause surprise</item>
+          </word>
+        </words>
+        <item type="gls"> So the ancestors discussed that they would do something - something surprising.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>nahên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>nahên</i>
+                </item>
+                <item type="gls">when</item>
+              </morph>
+            </morphemes>
+            <item type="gls">when</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>atsi</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>atsi</i>
+                </item>
+                <item type="gls">LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">located</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hila</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hila</i>
+                </item>
+                <item type="gls">3P,ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ngan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ngan</i>
+                </item>
+                <item type="gls">all</item>
+              </morph>
+            </morphemes>
+            <item type="gls">all</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>bayro</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>bayro</i>
+                </item>
+                <item type="gls">D3F,OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">there</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">at</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>pagtsiponan</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pag-</i>
+                </item>
+                <item type="gls">NR-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>tsipon</i>
+                </item>
+                <item type="gls">gather</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-an</i>
+                </item>
+                <item type="gls">-LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">gathering place</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>la</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>la</i>
+                </item>
+                <item type="gls">3P,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">their</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hinabi</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-in-</i>
+                </item>
+                <item type="gls">-PST,PAT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>habi</i>
+                </item>
+                <item type="gls">word</item>
+              </morph>
+            </morphemes>
+            <item type="gls">said</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,ERG</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hatsi</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hatsi</i>
+                </item>
+                <item type="gls">D1</item>
+              </morph>
+            </morphemes>
+            <item type="gls">this</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mihay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>miha</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">one</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>manan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>mana</i>
+                </item>
+                <item type="gls">former</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">former</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tao</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tao</i>
+                </item>
+                <item type="gls">person</item>
+              </morph>
+            </morphemes>
+            <item type="gls">person</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">what</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>wana</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>wa</i>
+                </item>
+                <item type="gls">said</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,ERG</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he said is</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>main</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>main</i>
+                </item>
+                <item type="gls">EXT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">have something</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kitamon</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kitamo</i>
+                </item>
+                <item type="gls">1PI,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">we(incl)-that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>daygên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>dyag</i>
+                </item>
+                <item type="gls">do</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-ên</i>
+                </item>
+                <item type="gls">-FUT:PAT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will do</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ta+êmên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ta êmên</i>
+                </item>
+                <item type="gls">so that</item>
+              </morph>
+            </morphemes>
+            <item type="gls">so that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>a</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>a</i>
+                </item>
+                <item type="gls">not</item>
+              </morph>
+            </morphemes>
+            <item type="gls">not</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>pare-pareho</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-CVCV-</i>
+                </item>
+                <item type="gls">-INT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>pareho</i>
+                </item>
+                <item type="gls">same</item>
+              </morph>
+            </morphemes>
+            <item type="gls">just the same</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>habot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>habot</i>
+                </item>
+                <item type="gls">hair</item>
+              </morph>
+            </morphemes>
+            <item type="gls">hair</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tamo</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tamo</i>
+                </item>
+                <item type="gls">1PI,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">our(incl)</item>
+          </word>
+        </words>
+        <item type="gls"> When they were all there at their meeting place, this one ancestor said, "We will do something so that our hair will not be just the same.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>noa</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>noa</i>
+                </item>
+                <item type="gls">but</item>
+              </morph>
+            </morphemes>
+            <item type="gls">but</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>main</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>main</i>
+                </item>
+                <item type="gls">EXT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">there was</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nangotang</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>paN-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>kotang</i>
+                </item>
+                <item type="gls">question</item>
+              </morph>
+            </morphemes>
+            <item type="gls">asked</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">what</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>wana</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>wa</i>
+                </item>
+                <item type="gls">said</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,ERG</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he said is</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hinoy</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hino</i>
+                </item>
+                <item type="gls">who</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">what</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>daygên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>dyag</i>
+                </item>
+                <item type="gls">do</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-ên</i>
+                </item>
+                <item type="gls">-FUT:PAT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will do</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tamo</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tamo</i>
+                </item>
+                <item type="gls">1PI,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">we(incl)</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>êmên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>êmên</i>
+                </item>
+                <item type="gls">so that</item>
+              </morph>
+            </morphemes>
+            <item type="gls">so that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mag-in</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>mag-in</i>
+                </item>
+                <item type="gls">become</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will become</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kulot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kulot</i>
+                </item>
+                <item type="gls">curly</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curly</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>habot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>habot</i>
+                </item>
+                <item type="gls">hair</item>
+              </morph>
+            </morphemes>
+            <item type="gls">hair</item>
+          </word>
+        </words>
+        <item type="gls"> But someone asked, "What will we do so that (our) hair will become curly?</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>hinabi</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-in-</i>
+                </item>
+                <item type="gls">-PST,PAT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>habi</i>
+                </item>
+                <item type="gls">word</item>
+              </morph>
+            </morphemes>
+            <item type="gls">said</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,ERG</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hatoy</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hato</i>
+                </item>
+                <item type="gls">D3</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>toa</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>toa</i>
+                </item>
+                <item type="gls">elders</item>
+              </morph>
+            </morphemes>
+            <item type="gls">elder</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">what</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>wana</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>wa</i>
+                </item>
+                <item type="gls">said</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,ERG</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he said is</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>loway</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>lowa</i>
+                </item>
+                <item type="gls">two</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">two</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>pamilian</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>paN-</i>
+                </item>
+                <item type="gls">NR-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>pili</i>
+                </item>
+                <item type="gls">choose</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-an</i>
+                </item>
+                <item type="gls">-LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will choose from</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>balang</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>balang</i>
+                </item>
+                <item type="gls">each</item>
+              </morph>
+            </morphemes>
+            <item type="gls">each</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>miha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>miha</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+            </morphemes>
+            <item type="gls">one</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kantamo</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kantamo</i>
+                </item>
+                <item type="gls">1PI,OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">of us(incl)</item>
+          </word>
+        </words>
+        <item type="gls"> The elder said, what he said is,  "Two (things) each one of us will choose from.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>no</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>no</i>
+                </item>
+                <item type="gls">CR</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hinoy</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hino</i>
+                </item>
+                <item type="gls">who</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">who</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>muwayo</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>puwayo</i>
+                </item>
+                <item type="gls">run</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will run</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>do</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>do</i>
+                </item>
+                <item type="gls">D3,OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">there</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">to the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kulot-kulotan</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-DUP-</i>
+                </item>
+                <item type="gls">-???-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>kulot</i>
+                </item>
+                <item type="gls">curly</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-an</i>
+                </item>
+                <item type="gls">-LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curly plant</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mag-in</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>mag-in</i>
+                </item>
+                <item type="gls">become</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will become</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kulot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kulot</i>
+                </item>
+                <item type="gls">curly</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curly-haired</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">3S,ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he</item>
+          </word>
+        </words>
+        <item type="gls"> Whoever runs there to the curly plant, he will become curly-haired.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>no</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>no</i>
+                </item>
+                <item type="gls">CR</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hino</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hino</i>
+                </item>
+                <item type="gls">who</item>
+              </morph>
+            </morphemes>
+            <item type="gls">who</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>etaman</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>etaman</i>
+                </item>
+                <item type="gls">on the other hand</item>
+              </morph>
+            </morphemes>
+            <item type="gls">on the other hand</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>muwayo</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>puwayo</i>
+                </item>
+                <item type="gls">run</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will run</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>do</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>do</i>
+                </item>
+                <item type="gls">D3,OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">there</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">to the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>yabot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>yabot</i>
+                </item>
+                <item type="gls">cogon grass</item>
+              </morph>
+            </morphemes>
+            <item type="gls">cogon grass</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>a</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>a</i>
+                </item>
+                <item type="gls">not</item>
+              </morph>
+            </morphemes>
+            <item type="gls">not</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>maano</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>ka-</i>
+                </item>
+                <item type="gls">ABL-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ano</i>
+                </item>
+                <item type="gls">something</item>
+              </morph>
+            </morphemes>
+            <item type="gls">happen</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>habot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>habot</i>
+                </item>
+                <item type="gls">hair</item>
+              </morph>
+            </morphemes>
+            <item type="gls">hair</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>na</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">his</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ta</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ta</i>
+                </item>
+                <item type="gls">because</item>
+              </morph>
+            </morphemes>
+            <item type="gls">because</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mag-in</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>mag-in</i>
+                </item>
+                <item type="gls">become</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will become</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>yaynan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">3S,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he-now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mauhay</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>ka-</i>
+                </item>
+                <item type="gls">STAT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>uhay</i>
+                </item>
+                <item type="gls">comb</item>
+              </morph>
+            </morphemes>
+            <item type="gls">straight-haired</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>angga-angga</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-DUP-</i>
+                </item>
+                <item type="gls">-???-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>angga</i>
+                </item>
+                <item type="gls">end</item>
+              </morph>
+            </morphemes>
+            <item type="gls">forever</item>
+          </word>
+        </words>
+        <item type="gls"> But whoever runs there to the cogon grass, his hair will not be affected and he will then become straight-haired forever.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>kabay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kabay</i>
+                </item>
+                <item type="gls">so</item>
+              </morph>
+            </morphemes>
+            <item type="gls">so</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mag-ihip-ihip</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pag-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-DUP-</i>
+                </item>
+                <item type="gls">-???-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ihip</i>
+                </item>
+                <item type="gls">thinking</item>
+              </morph>
+            </morphemes>
+            <item type="gls">think over</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kaw</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kaw</i>
+                </item>
+                <item type="gls">2P,ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">you(pl)</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>no</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>no</i>
+                </item>
+                <item type="gls">CR</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>anto</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>anto</i>
+                </item>
+                <item type="gls">where</item>
+              </morph>
+            </morphemes>
+            <item type="gls">where</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kaw</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kaw</i>
+                </item>
+                <item type="gls">2P,ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">you(pl)</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mabay</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>labay</i>
+                </item>
+                <item type="gls">want</item>
+              </morph>
+            </morphemes>
+            <item type="gls">want</item>
+          </word>
+        </words>
+        <item type="gls"> So think over where you want (to go)."</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>kabay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kabay</i>
+                </item>
+                <item type="gls">so</item>
+              </morph>
+            </morphemes>
+            <item type="gls">so</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>balang</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>balang</i>
+                </item>
+                <item type="gls">each</item>
+              </morph>
+            </morphemes>
+            <item type="gls">each</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>miha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>miha</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+            </morphemes>
+            <item type="gls">one</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nag-ihip-ihip</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pag-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-DUP-</i>
+                </item>
+                <item type="gls">-???-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ihip</i>
+                </item>
+                <item type="gls">thinking</item>
+              </morph>
+            </morphemes>
+            <item type="gls">thought over</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>no</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>no</i>
+                </item>
+                <item type="gls">CR</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>antoy</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>anto</i>
+                </item>
+                <item type="gls">where</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">where</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>payuên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>payo</i>
+                </item>
+                <item type="gls">run</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-ên</i>
+                </item>
+                <item type="gls">-FUT:PAT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will run to</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>la</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>la</i>
+                </item>
+                <item type="gls">3P,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they</item>
+          </word>
+        </words>
+        <item type="gls"> So each one thought over where they would run to.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>nahên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>nahên</i>
+                </item>
+                <item type="gls">when</item>
+              </morph>
+            </morphemes>
+            <item type="gls">when</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nayari</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>ka-</i>
+                </item>
+                <item type="gls">STAT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>yari</i>
+                </item>
+                <item type="gls">finish</item>
+              </morph>
+            </morphemes>
+            <item type="gls">finished</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hilan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hila</i>
+                </item>
+                <item type="gls">3P,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nag-ihip</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pag-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ihip</i>
+                </item>
+                <item type="gls">thinking</item>
+              </morph>
+            </morphemes>
+            <item type="gls">decided</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hinabi</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-in-</i>
+                </item>
+                <item type="gls">-PST,PAT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>habi</i>
+                </item>
+                <item type="gls">word</item>
+              </morph>
+            </morphemes>
+            <item type="gls">said</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>naynan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,ERG</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">ERG</item>
+              </morph>
+            </morphemes>
+            <item type="gls">he-now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hatoy</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hato</i>
+                </item>
+                <item type="gls">D3</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>toa</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>toa</i>
+                </item>
+                <item type="gls">elders</item>
+              </morph>
+            </morphemes>
+            <item type="gls">elder</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>mamilang</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>paN-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>bilang</i>
+                </item>
+                <item type="gls">number</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will count</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>akon</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ako</i>
+                </item>
+                <item type="gls">1S,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">I</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>anggan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>anggan</i>
+                </item>
+                <item type="gls">until</item>
+              </morph>
+            </morphemes>
+            <item type="gls">until</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tatlo</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tatlo</i>
+                </item>
+                <item type="gls">three</item>
+              </morph>
+            </morphemes>
+            <item type="gls">three</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>bayo</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>bayo</i>
+                </item>
+                <item type="gls">before</item>
+              </morph>
+            </morphemes>
+            <item type="gls">then</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>miagnan</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pi-</i>
+                </item>
+                <item type="gls">PL-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>agnan</i>
+                </item>
+                <item type="gls">together</item>
+              </morph>
+            </morphemes>
+            <item type="gls">together</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kitamon</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kitamo</i>
+                </item>
+                <item type="gls">1PI,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">we(incl)</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>muwayo</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>m-</i>
+                </item>
+                <item type="gls">FUT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>puwayo</i>
+                </item>
+                <item type="gls">run</item>
+              </morph>
+            </morphemes>
+            <item type="gls">will run</item>
+          </word>
+        </words>
+        <item type="gls"> When they had finished deciding, the elder said, "I will count to three, then we will all run.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>miha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>miha</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+            </morphemes>
+            <item type="gls">one</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>lowa</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>lowa</i>
+                </item>
+                <item type="gls">two</item>
+              </morph>
+            </morphemes>
+            <item type="gls">two</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tatlo</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tatlo</i>
+                </item>
+                <item type="gls">three</item>
+              </morph>
+            </morphemes>
+            <item type="gls">three</item>
+          </word>
+        </words>
+        <item type="gls"> One, two, three."</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>pagkayari</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>pagka</i>
+                </item>
+                <item type="gls">upon</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>yari</i>
+                </item>
+                <item type="gls">finish</item>
+              </morph>
+            </morphemes>
+            <item type="gls">upon finishing</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>na</i>
+                </item>
+                <item type="gls">3S,ERG</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">his-of</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>namilang</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>paN-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>bilang</i>
+                </item>
+                <item type="gls">number</item>
+              </morph>
+            </morphemes>
+            <item type="gls">counted</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nuwayo</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>puwayo</i>
+                </item>
+                <item type="gls">run</item>
+              </morph>
+            </morphemes>
+            <item type="gls">ran</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hilaynay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hila</i>
+                </item>
+                <item type="gls">3P,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they-now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kal-atan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kal-at</i>
+                </item>
+                <item type="gls">many</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-an</i>
+                </item>
+                <item type="gls">-LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">whole bunch</item>
+          </word>
+        </words>
+        <item type="gls"> When he had finished counting, then they all ran.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>main</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>main</i>
+                </item>
+                <item type="gls">EXT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">there was</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nunta</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>punta</i>
+                </item>
+                <item type="gls">go</item>
+              </morph>
+            </morphemes>
+            <item type="gls">went</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">to the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kulot-kulotan</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-DUP-</i>
+                </item>
+                <item type="gls">-???-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>kulot</i>
+                </item>
+                <item type="gls">curly</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-an</i>
+                </item>
+                <item type="gls">-LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curly plant</item>
+          </word>
+        </words>
+        <item type="gls"> Some went to the curly plant.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>main</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>main</i>
+                </item>
+                <item type="gls">EXT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">there was</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>etaman</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>etaman</i>
+                </item>
+                <item type="gls">on the other hand</item>
+              </morph>
+            </morphemes>
+            <item type="gls">on the other hand</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>êt</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>êt</i>
+                </item>
+                <item type="gls">also</item>
+              </morph>
+            </morphemes>
+            <item type="gls">also</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nunta</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>punta</i>
+                </item>
+                <item type="gls">go</item>
+              </morph>
+            </morphemes>
+            <item type="gls">went</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">to the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>yabot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>yabot</i>
+                </item>
+                <item type="gls">cogon grass</item>
+              </morph>
+            </morphemes>
+            <item type="gls">cogon grass</item>
+          </word>
+        </words>
+        <item type="gls"> But others went to the cogon grass.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>nahên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>nahên</i>
+                </item>
+                <item type="gls">when</item>
+              </morph>
+            </morphemes>
+            <item type="gls">when</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nayari</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>ka-</i>
+                </item>
+                <item type="gls">STAT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>yari</i>
+                </item>
+                <item type="gls">finish</item>
+              </morph>
+            </morphemes>
+            <item type="gls">finished</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>anay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>habayto</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>habayto</i>
+                </item>
+                <item type="gls">D3F</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nuli</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>muli</i>
+                </item>
+                <item type="gls">go home</item>
+              </morph>
+            </morphemes>
+            <item type="gls">went home</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hilayna</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hila</i>
+                </item>
+                <item type="gls">3P,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they-now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>êt</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>êt</i>
+                </item>
+                <item type="gls">also</item>
+              </morph>
+            </morphemes>
+            <item type="gls">also</item>
+          </word>
+        </words>
+        <item type="gls"> When that was finished, they went back home.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>noa</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>noa</i>
+                </item>
+                <item type="gls">but</item>
+              </morph>
+            </morphemes>
+            <item type="gls">but</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>a</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>a</i>
+                </item>
+                <item type="gls">not</item>
+              </morph>
+            </morphemes>
+            <item type="gls">not</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">3S,ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">it</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>pon</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>pon</i>
+                </item>
+                <item type="gls">still</item>
+              </morph>
+            </morphemes>
+            <item type="gls">yet</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>tambêng</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>tambêng</i>
+                </item>
+                <item type="gls">right away</item>
+              </morph>
+            </morphemes>
+            <item type="gls">right away</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nag-in</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>mag-in</i>
+                </item>
+                <item type="gls">become</item>
+              </morph>
+            </morphemes>
+            <item type="gls">became</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kulot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kulot</i>
+                </item>
+                <item type="gls">curly</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curly</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>habot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>habot</i>
+                </item>
+                <item type="gls">hair</item>
+              </morph>
+            </morphemes>
+            <item type="gls">hair</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>la</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>la</i>
+                </item>
+                <item type="gls">3P,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">their</item>
+          </word>
+        </words>
+        <item type="gls"> But their hair didn't become curly right away.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>nahên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>nahên</i>
+                </item>
+                <item type="gls">when</item>
+              </morph>
+            </morphemes>
+            <item type="gls">when</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nunta</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>punta</i>
+                </item>
+                <item type="gls">go</item>
+              </morph>
+            </morphemes>
+            <item type="gls">went</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hilayna</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hila</i>
+                </item>
+                <item type="gls">3P,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they-now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">to</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>obra</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>obra</i>
+                </item>
+                <item type="gls">work</item>
+              </morph>
+            </morphemes>
+            <item type="gls">work</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>la</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>la</i>
+                </item>
+                <item type="gls">3P,GEN</item>
+              </morph>
+            </morphemes>
+            <item type="gls">their</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>balang</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>balang</i>
+                </item>
+                <item type="gls">each</item>
+              </morph>
+            </morphemes>
+            <item type="gls">each</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>miha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>miha</i>
+                </item>
+                <item type="gls">one</item>
+              </morph>
+            </morphemes>
+            <item type="gls">one</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kaban</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kaban</i>
+                </item>
+                <item type="gls">while</item>
+              </morph>
+            </morphemes>
+            <item type="gls">while</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ampag-obra</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>aN-</i>
+                </item>
+                <item type="gls">CONT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>pag-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>obra</i>
+                </item>
+                <item type="gls">work</item>
+              </morph>
+            </morphemes>
+            <item type="gls">working</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hila</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hila</i>
+                </item>
+                <item type="gls">3P,ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">they</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ampakakanawa</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>aN-</i>
+                </item>
+                <item type="gls">CONT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>paka-</i>
+                </item>
+                <item type="gls">INT-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>ka-</i>
+                </item>
+                <item type="gls">STAT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>nawa</i>
+                </item>
+                <item type="gls">little</item>
+              </morph>
+            </morphemes>
+            <item type="gls">little by little</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>yaynan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">3S,ABS</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">it-now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ampangulêtên</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>aN-</i>
+                </item>
+                <item type="gls">CONT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>pangulot</i>
+                </item>
+                <item type="gls">curl</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-ên</i>
+                </item>
+                <item type="gls">-PAT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curling</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ya</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">ABS</item>
+              </morph>
+            </morphemes>
+            <item type="gls">the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>habot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>habot</i>
+                </item>
+                <item type="gls">hair</item>
+              </morph>
+            </morphemes>
+            <item type="gls">hair</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>lan</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>la</i>
+                </item>
+                <item type="gls">3P,GEN</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">ERG</item>
+              </morph>
+            </morphemes>
+            <item type="gls">their</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hatoy</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hato</i>
+                </item>
+                <item type="gls">D3</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ya</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nayo</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>payo</i>
+                </item>
+                <item type="gls">run</item>
+              </morph>
+            </morphemes>
+            <item type="gls">ran</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ha</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ha</i>
+                </item>
+                <item type="gls">OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">to the</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kulot-kulotan</i>
+            </item>
+            <morphemes>
+              <morph type="infix">
+                <item type="txt">
+                  <i>-DUP-</i>
+                </item>
+                <item type="gls">-???-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>kulot</i>
+                </item>
+                <item type="gls">curly</item>
+              </morph>
+              <morph type="suffix">
+                <item type="txt">
+                  <i>-an</i>
+                </item>
+                <item type="gls">-LOC</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curly plant</item>
+          </word>
+        </words>
+        <item type="gls"> When they went to their work, each one as they worked, little by little their hair was now curling, those who ran to the curly plant.</item>
+      </phrase>
+      <phrase>
+        <words>
+          <word>
+            <item type="txt">
+              <i>kabay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kabay</i>
+                </item>
+                <item type="gls">so</item>
+              </morph>
+            </morphemes>
+            <item type="gls">so</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>nangubat</i>
+            </item>
+            <morphemes>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>n-</i>
+                </item>
+                <item type="gls">PST-</item>
+              </morph>
+              <morph type="prefix">
+                <item type="txt">
+                  <i>paN-</i>
+                </item>
+                <item type="gls">AGT-</item>
+              </morph>
+              <morph type="root">
+                <item type="txt">
+                  <i>ubat</i>
+                </item>
+                <item type="gls">from</item>
+              </morph>
+            </morphemes>
+            <item type="gls">coming from</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>bayro</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>bayro</i>
+                </item>
+                <item type="gls">D3F,OBL</item>
+              </morph>
+            </morphemes>
+            <item type="gls">that time</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ay</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ay</i>
+                </item>
+                <item type="gls">INV</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>main</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>main</i>
+                </item>
+                <item type="gls">EXT</item>
+              </morph>
+            </morphemes>
+            <item type="gls">there is</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>ana</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>ana</i>
+                </item>
+                <item type="gls">now</item>
+              </morph>
+            </morphemes>
+            <item type="gls">now</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>hên</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>hên</i>
+                </item>
+                <item type="gls">LK</item>
+              </morph>
+            </morphemes>
+            <item type="gls">--</item>
+          </word>
+          <word>
+            <item type="txt">
+              <i>kulot</i>
+            </item>
+            <morphemes>
+              <morph type="root">
+                <item type="txt">
+                  <i>kulot</i>
+                </item>
+                <item type="gls">curly</item>
+              </morph>
+            </morphemes>
+            <item type="gls">curly-haired</item>
+          </word>
+        </words>
+        <item type="gls"> So from then on, there have been curly-haired (people).</item>
+      </phrase>
+    </phrases>
+  </interlinear-text>
+</document>

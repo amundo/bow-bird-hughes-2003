@@ -1,0 +1,656 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+<interlinear_text>
+  <item type="title">1 Darwin Moodoonuthi: The cave at Wamarkuld</item>
+  <item type="comment">This text, recorded in July 1982, recounts the fatal consequences of an expedition made to Bentinck Island in the early 1960s with two Europeans.  It has become a modern myth, and is constantly repeated to children to demonstrate the importance of following the old law, and as a warning against further European intrusion into secret/sacred places.</item>
+  <phrases>
+    <phrase>
+      <item type="number">1</item>
+      <item type="gls">Wamarkuld. That place was never gone to, it's a bad place. A bad pla...</item>
+      <item type="comment">[A recurring them of the story is unauthorized trespassing.  Grammatically, this results in a number of passivized motion verbs, such as warraajarri here, which express the ill effects of motion on a place.]</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">Wamakurlda</item>
+              <item type="gls">(place name)</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dathin</item>
+              <item type="gls">that</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dulk</item>
+              <item type="gls">place</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">go</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">M</item>
+            </morph>
+            <morph>
+              <item type="txt">jarri</item>
+              <item type="gls">NEGACT</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">birdi</item>
+              <item type="gls">bad</item>
+            </morph>
+            <morph>
+              <item type="txt">ya</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dulk</item>
+              <item type="gls">place(NOM)</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">birdi</item>
+              <item type="gls">bad</item>
+            </morph>
+            <morph>
+              <item type="txt">ya</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dul..</item>
+              <item type="gls">place(NOM)</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">2</item>
+      <item type="gls">The boss of that place never went near (it).</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dul</item>
+              <item type="gls">land</item>
+            </morph>
+            <morph>
+              <item type="txt">marra</item>
+              <item type="gls">UTIL</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dangka</item>
+              <item type="gls">man</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">go</item>
+            </morph>
+            <morph>
+              <item type="txt">jarri</item>
+              <item type="gls">NEGACT</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">marrwa</item>
+              <item type="gls">near</item>
+            </morph>
+            <morph>
+              <item type="txt">y</item>
+              <item type="gls">MLOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">marrwa</item>
+              <item type="gls">near</item>
+            </morph>
+            <morph>
+              <item type="txt">y</item>
+              <item type="gls">MLOC</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">3</item>
+      <item type="gls">Far away he walked, (in) the far scrub.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">far</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">go</item>
+            </morph>
+            <morph>
+              <item type="txt">j</item>
+              <item type="gls">ACT</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">far</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">thungku</item>
+              <item type="gls">mangrove.scrub(NOM)</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">4</item>
+      <item type="gls">(People) from the south (stayed) far off, walked in the scrub far off.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">rar</item>
+              <item type="gls">south</item>
+            </morph>
+            <morph>
+              <item type="txt">umban</item>
+              <item type="gls">ORIG</item>
+            </morph>
+            <morph>
+              <item type="txt">d</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">rar</item>
+              <item type="gls">south</item>
+            </morph>
+            <morph>
+              <item type="txt">umban</item>
+              <item type="gls">ORIG</item>
+            </morph>
+            <morph>
+              <item type="txt">da</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">far</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">far</item>
+            </morph>
+            <morph>
+              <item type="txt">ya</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">wambal</item>
+              <item type="gls">bush</item>
+            </morph>
+            <morph>
+              <item type="txt">i</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">go</item>
+            </morph>
+            <morph>
+              <item type="txt">j</item>
+              <item type="gls">ACT</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">5</item>
+      <item type="gls">(People) from the north went through the scrub.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <item type="comment">Exceptionally, this word exhibits vowel harmony here--it is normally pronounced jirrkurumbanda.</item> 
+          <morphemes>
+            <morph>
+              <item type="txt">jurrkur</item>
+              <item type="gls">north</item>
+            </morph>
+            <morph>
+              <item type="txt">umban</item>
+              <item type="gls">ORIG</item>
+            </morph>
+            <morph>
+              <item type="txt">d</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes> 
+            <morph>
+              <item type="txt">thungkuwa</item>
+              <item type="gls">mangrove.scrub(NOM)</item>
+            </morph>           
+            <morph>
+              <item type="txt">ya</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">go</item>
+            </morph>
+            <morph>
+              <item type="txt">j</item>
+              <item type="gls">ACT</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">6</item>
+      <item type="gls">In the east, going east, the western mob (stayed) in the mangrove scrub.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ri</item>
+              <item type="gls">east</item>
+            </morph>
+            <morph>
+              <item type="txt">ya</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">rul</item>
+              <item type="gls">east</item>
+            </morph>
+            <morph>
+              <item type="txt">ung</item>
+              <item type="gls">ALL</item>
+            </morph>
+            <morph>
+              <item type="txt">k</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">bal</item>
+              <item type="gls">west</item>
+            </morph>
+            <morph>
+              <item type="txt">umban</item>
+              <item type="gls">ORIG</item>
+            </morph>
+            <morph>
+              <item type="txt">da</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">jardi</item>
+              <item type="gls">mob</item>
+            </morph>
+            <morph>
+              <item type="txt">y</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+       <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">thungkuwa</item>
+              <item type="gls">scrub(NOM)</item>
+            </morph>
+            <morph>
+              <item type="txt">y</item>
+              <item type="gls">LOC</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">7</item>
+      <item type="gls">The eastern mob came back through the scrub.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">rul</item>
+              <item type="gls">east</item>
+            </morph>
+            <morph>
+              <item type="txt">umban</item>
+              <item type="gls">ORIG</item>
+            </morph>
+            <morph>
+              <item type="txt">da</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">jardi</item>
+              <item type="gls">mob</item>
+            </morph>
+            <morph>
+              <item type="txt">ya</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+       <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">thungkuwa</item>
+              <item type="gls">scrub(NOM)</item>
+            </morph>
+            <morph>
+              <item type="txt">ya</item>
+              <item type="gls">MLOC</item>
+            </morph>
+          </morphemes>
+        </word>
+       <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">thaa</item>
+              <item type="gls">return</item>
+            </morph>
+            <morph>
+              <item type="txt">th</item>
+              <item type="gls">ACT</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">8</item>
+      <item type="gls">(It's) deadly stuff, (they're) deadly people (there).</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ngulmu</item>
+              <item type="gls">deadly</item>
+            </morph>
+            <morph>
+              <item type="txt">wa</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">thung..</item>
+              <item type="gls">thing</item>
+            </morph>
+          </morphemes>
+        </word>
+       <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">ngulmu</item>
+              <item type="gls">deadly</item>
+            </morph>
+            <morph>
+              <item type="txt">wa</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+       <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">dangka</item>
+              <item type="gls">person</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">9</item>
+      <item type="gls">Nearby mustn't be gone to.</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">marrwa</item>
+              <item type="gls">close</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">warra</item>
+              <item type="gls">go</item>
+            </morph>
+           <morph>
+              <item type="txt">a</item>
+              <item type="gls">M</item>
+            </morph>
+            <morph>
+              <item type="txt">nangku</item>
+              <item type="gls">NEG.POT</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+    <phrase>
+      <item type="number">10</item>
+      <item type="gls">(That's the way it's) always been.</item>
+      <item type="comment">[Literally: 'Absolutely always (it had been) good'. (The law was observed.)]</item>
+      <words>
+        <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yulkaan</item>
+              <item type="gls">eternal</item>
+            </morph>
+            <morph>
+              <item type="txt">mirra</item>
+              <item type="gls">INTENS</item>
+            </morph>
+          </morphemes>
+        </word>
+         <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">yulkaan</item>
+              <item type="gls">eternal</item>
+            </morph>
+            <morph>
+              <item type="txt">da</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+       <word>
+          <item type="txt"></item>
+          <morphemes>
+            <morph>
+              <item type="txt">mirra</item>
+              <item type="gls">good</item>
+            </morph>
+            <morph>
+              <item type="txt">a</item>
+              <item type="gls">NOM</item>
+            </morph>
+          </morphemes>
+        </word>
+      </words>
+    </phrase>
+  </phrases>
+</interlinear_text>
+</resource>

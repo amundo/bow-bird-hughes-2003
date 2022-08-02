@@ -1,0 +1,138 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.82666666666666 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Baze (SAMPA)" 
+        xmin = 0 
+        xmax = 1.82666666666666 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.393106201409135 
+            text = "Egna" 
+        intervals [2]:
+            xmin = 0.393106201409135 
+            xmax = 0.491870549242424 
+            text = "ma" 
+        intervals [3]:
+            xmin = 0.491870549242424 
+            xmax = 0.677921936274509 
+            text = "mOn" 
+        intervals [4]:
+            xmin = 0.677921936274509 
+            xmax = 0.831225101357303 
+            text = "wa" 
+        intervals [5]:
+            xmin = 0.831225101357303 
+            xmax = 1.22709198633156 
+            text = "nEvEli" 
+        intervals [6]:
+            xmin = 1.22709198633156 
+            xmax = 1.82666666666666 
+            text = "ma" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Uni Bi (SAMPA)" 
+        xmin = 0 
+        xmax = 1.82666666666666 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.393314530818497 
+            text = "enja" 
+        intervals [2]:
+            xmin = 0.393314530818497 
+            xmax = 0.491844409189729 
+            text = "mA" 
+        intervals [3]:
+            xmin = 0.491844409189729 
+            xmax = 0.677956401668722 
+            text = "mO" 
+        intervals [4]:
+            xmin = 0.677956401668722 
+            xmax = 0.831225101357306 
+            text = "wa" 
+        intervals [5]:
+            xmin = 0.831225101357306 
+            xmax = 1.22716924221948 
+            text = "nEvEli" 
+        intervals [6]:
+            xmin = 1.22716924221948 
+            xmax = 1.82666666666666 
+            text = "ma" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Uni Bi (IPA)" 
+        xmin = 0 
+        xmax = 1.82666666666666 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.393314530818497 
+            text = "enj" 
+        intervals [2]:
+            xmin = 0.393314530818497 
+            xmax = 0.491844409189729 
+            text = "" 
+        intervals [3]:
+            xmin = 0.491844409189729 
+            xmax = 0.677956401668722 
+            text = "" 
+        intervals [4]:
+            xmin = 0.677956401668722 
+            xmax = 0.831225101357306 
+            text = "" 
+        intervals [5]:
+            xmin = 0.831225101357306 
+            xmax = 1.22716924221948 
+            text = "" 
+        intervals [6]:
+            xmin = 1.22716924221948 
+            xmax = 1.82666666666666 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Tones" 
+        xmin = 0 
+        xmax = 1.82666666666666 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.393314530818497 
+            text = "low  high" 
+        intervals [2]:
+            xmin = 0.393314530818497 
+            xmax = 0.491844409189729 
+            text = " high" 
+        intervals [3]:
+            xmin = 0.491844409189729 
+            xmax = 0.677956401668722 
+            text = "high" 
+        intervals [4]:
+            xmin = 0.677956401668722 
+            xmax = 0.831225101357306 
+            text = " high" 
+        intervals [5]:
+            xmin = 0.831225101357306 
+            xmax = 1.22716924221948 
+            text = "high low rising" 
+        intervals [6]:
+            xmin = 1.22716924221948 
+            xmax = 1.82666666666666 
+            text = " high" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "French" 
+        xmin = 0 
+        xmax = 1.82666666666666 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.82666666666666 
+            text = "Je suis ces gens là qui venus me voir. " 

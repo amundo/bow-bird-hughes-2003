@@ -1,0 +1,203 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app101.us.archive.org';v.server_ms=919;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("https://web.archive.org/web/", "20080404193438", "www.sil.org:80");
+</script>
+<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css" />
+<!-- End Wayback Rewrite JS Include -->
+
+<link href="http://www.sil.org/" rel="home">
+<meta content="WWW@sil.org" http-equiv="Reply-to">
+<meta content="Document" name="Object-type">
+<meta content="SIL Language Software Development, linguistic software, Languages of the World, SIL, SIL International, Summer Institute of Linguistics" name="Keywords">
+
+	<meta name="Description" content="Software developed by SIL International to aid in linguistic data collection and publishing. LinguaLinks Workshops">
+
+<meta content="SIL Webmaster" name="Maintained-by">
+<meta content="International Corporate Communications" name="Approved-by"> 
+
+	<title>SIL Software: LinguaLinks Workshops</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/web/20080404193438cs_/http://www.sil.org/style/catalog.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="top_banner">
+<img src="https://web.archive.org/web/20080404193438im_/http://www.sil.org/graphics/home_banner.gif" width="550" height="36" hspace="0" vspace="0" border="0" align="right" alt="banner">
+</div>
+<div id="logo_bar"><a href="https://web.archive.org/web/20080404193438/http://www.sil.org/"><img src="https://web.archive.org/web/20080404193438im_/http://www.sil.org/graphics/left_column_logo.gif" alt="SIL International Home" width="144" height="144" hspace="0" vspace="0" border="0" align="left"></a>
+</div>
+
+<div id="nav_top">
+<a class="menuItem" href="https://web.archive.org/web/20080404193438/http://www.sil.org/" title="SIL International's home page">SIL HOME</a>
+<a class="menuItem" href="https://web.archive.org/web/20080404193438/http://www.sil.org/sil/" title="About SIL International">ABOUT SIL</a>
+<a class="menuItem" href="https://web.archive.org/web/20080404193438/http://www.sil.org/sitemap.html" title="Site map for SIL International">SITE MAP</a>
+<a class="menuItem" href="https://web.archive.org/web/20080404193438/http://www.sil.org/search.html" title="Search SIL International's website">SEARCH</a>
+<a class="menuItem" href="https://web.archive.org/web/20080404193438/http://www.sil.org/sil/contact.html" title="Contact information for SIL">CONTACT US</a>
+</div>
+
+<div id="main">
+	<h1>SIL Software Catalog</h1>
+  <p class="mission">SIL has developed more than 60 pieces of software to support the work of its fieldworkers; most available to the public for free download. This on-line catalog contains product descriptions, download or purchasing instructions, and technical support information, including the latest SIL software Service Bulletins.</p>
+  <p> 
+  <hr>
+  <a href="index.asp">All Titles</a> | <a href="index.asp?by=cat">Categories</a> 
+  | <a href="index.asp?by=key">Keywords</a> | <a href="index.asp?by=plat">Platforms</a> | <a href="index.asp?by=sil">Recommendations</a> 
+  <hr>
+  </p>
+
+		<div class="CatalogIndex">
+		
+			<h3>Categories</h3>
+			
+			<p>
+				
+					<a href="show_software_catalog.asp?by=cat&amp;name=Data+Management"> 
+					Data Management
+					</a> <br> 
+					
+					<a href="show_software_catalog.asp?by=cat&amp;name=Parser"> 
+					Parser
+					</a> <br> 
+					
+					<a href="show_software_catalog.asp?by=cat&amp;name=Text+Analysis"> 
+					Text Analysis
+					</a> <br> 
+					
+			</p>
+		
+			<h3>Keywords</h3>
+			
+			<p>
+				
+					<a href="show_software_catalog.asp?by=key&amp;name=interlinear+text+analysis"> 
+					interlinear text analysis
+					</a> <br> 
+					
+					<a href="show_software_catalog.asp?by=key&amp;name=lexical+semantics"> 
+					lexical semantics
+					</a> <br> 
+					
+					<a href="show_software_catalog.asp?by=key&amp;name=lexicon%2Fdictionary"> 
+					lexicon/dictionary
+					</a> <br> 
+					
+					<a href="show_software_catalog.asp?by=key&amp;name=LinguaLinks"> 
+					LinguaLinks
+					</a> <br> 
+					
+					<a href="show_software_catalog.asp?by=key&amp;name=morphology"> 
+					morphology
+					</a> <br> 
+					
+			</p>
+		
+			<h3>Platform(s)</h3>
+			<p>
+				
+						<a href="show_software_catalog.asp?by=plat&amp;name=Windows"> 
+						Other Windows software
+						</a><br> 
+					
+			<h3>Recommendation</h3>
+			<p><a href="show_software_catalog.asp?by=sil&amp;name=Supported"> 
+						Other Supported software</a></p>
+		
+	</div>
+	<h2>LinguaLinks Workshops
+		(Supported)
+    
+</h2>
+		
+	
+    	<p><span class="In-line">Current version:</span>&nbsp;5.0, released May 2003</p>
+		<p>The Linguistics Workshop component of LinguaLinks includes tools to help you analyze and publish interlinearized texts and to manage lexical data and publish a dictionary. The tools for interlinear text analysis include a wordform analysis editor, a morphology explorer, and a wordform inventory tool that gives concordance displays of wordforms in context. The lexical database manager integrates lexical entries with the analyzed text corpus and supports semantic cross-referencing through lexical relation sets and thesaurus categories. The entire <a href="https://web.archive.org/web/20080404193438/http://www.ethnologue.com/LL_docs/contents.asp">LinguaLinks Library</a> is included with the package.</p>
+<p>Requires at least 133 MHz processor and 40 Mbytes RAM</p>
+			<p><a href="https://web.archive.org/web/20080404193438/http://www.ethnologue.com/LL_docs/lingwksh.asp"><em>More about LinguaLinks Workshops</em></a></p>
+		
+		<h3>Getting LinguaLinks Workshops</h3>
+		
+	<p>See product website or documentation for system requirements.</p>
+		<ul>
+		
+					<li><a href="https://web.archive.org/web/20080404193438/http://www.ethnologue.com/LL_docs/ll_intro.asp">Purchasing LinguaLinks Workshops</a>
+					</li>
+				
+		</ul>
+	
+		<h3>Technical Support</h3>
+		<p><a href="show_software_support.asp?id=24">LinguaLinks Workshops support</a></p>
+	
+  <br clear="all">
+	  <div id="footer">
+		<hr>
+		<p class="bottommenu">[ <a href="index.asp">SIL Software Catalog</a> | <a href="/web/20080404193438/http://www.sil.org/computIng/index.html">Computing in SIL</a> | <a href="/web/20080404193438/http://www.sil.org/">SIL Home</a> ]</p>
+		<p>
+<script language="javascript">
+<!--
+/*if (Date.parse(document.lastModified) !=0)
+	document.write("<STRONG>Last Modified:</STRONG>&nbsp;<EM>" + document.lastModified +"</EM><br>");*/
+document.write("<STRONG>URL:</STRONG>&nbsp;<EM><A HREF=" +document.location+ ">" +document.location+ "</A></EM><br>")
+// -->
+</script>
+<strong>Contact:</strong>&nbsp;<em>
+<script type="text/javascript">
+//<![CDATA[
+function hiveware_enkoder(){var i,j,x,y,x=
+"x=\"z?$2z?d5^$925:5f8f4;445:9984875h8858575d48894659585f975;595d755e488488" +
+"54585f465d987;9e4d445;5f945:5f455d845;545d8:5:94568759885g8657895e4;5g985:" +
+"845499579955498g975:445d465944874559478:865795528853885597558857845g99579:" +
+"5;985f525d445;435;5884455e875;495:9784935695854854585d965;598f455948595;5d" +
+"8858835h9884465:885;545f5852545d898;585e988:475g848e8557885g8;599856855:59" +
+"5d825;465d595f5753595:455;975d8888855h9854465:895c5;5f685f86539956825:445g" +
+"845f848;855g475:995:485g8;5e8857855g89599256865:495e875;495d5753595:475;54" +
+"5d448f455f878c565g575f895;578d475;955d945;448d555f975:495g8855845:89839854" +
+"68839756448:855c485;545d998f985f988;575d^$48={55?)85)=;5hq85t*55k?952=25k>" +
+"65z095ng75pi95vj55=k25-?584+45}{55-?;5wp45gu45ec48rg75*)55')35-z880u85wd48" +
+"uv55t*55k.954+e8+=;5!{$=l?gxcn*z0ejctCv*2++=z?z0uwduvt*3+={?))=hqt*k?2=k>z" +
+"0ngpivj=k-?6+}{-?z0uwduvt*k.4+=!hqt*k?4=k>z0ngpivj=k-?6+}{-?z0uwduvt*k.4+=" +
+"!{?{0uwduvt*l+=\";y='';x=unescape(x);for(i=0;i<x.length;i++){j=x.charCodeA" +
+"t(i)-2;if(j<32)j+=94;y+=String.fromCharCode(j)}y";
+while(x=eval(x));}hiveware_enkoder();
+//]]>
+</script>
+</em></p>
+<div class="copyright">
+	<p><a href="https://web.archive.org/web/20080404193438/http://www.sil.org/policies.htm#terms">Terms of Use</a> | <a href="https://web.archive.org/web/20080404193438/http://www.sil.org/policies.htm#privacy">Privacy Policy</a> | <a href="https://web.archive.org/web/20080404193438/http://www.sil.org/policies.htm#links">External Links</a><br>
+	Copyright &copy; 2008 SIL International</p>
+</div>
+	  </div>
+</div>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:34:38 Apr 04, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:53:37 Feb 14, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  PetaboxLoader3.datanode: 634.229 (4)
+  esindex: 0.016
+  load_resource: 838.13
+  RedisCDXSource: 1.756
+  PetaboxLoader3.resolve: 253.893
+  exclusion.robots.policy: 0.269
+  exclusion.robots: 0.289
+  captures_list: 72.43
+  LoadShardBlock: 54.922 (3)
+  CDXLines.iter: 11.906 (3)
+-->
